@@ -1,20 +1,28 @@
 ML-Explorations Repository
+
 Welcome to the ML-Explorations repository! This repository contains implementations of various supervised and unsupervised machine learning algorithms, along with real-world projects and examples. The focus is on mastering machine learning concepts through practice and project-based learning.
 
-Repository Overview
+Repository Overview:
+
+
 Supervised Learning Algorithms:
+
 Comprehensive implementations of algorithms used for predictive tasks, with examples.
 
 Unsupervised Learning Algorithms:
+
 Exploration of clustering and dimensionality reduction techniques.
 
 Real-World Projects:
+
 Practical applications to reinforce learning concepts.
 
 EDA and Feature Engineering:
+
 Exploratory Data Analysis and feature engineering practices to prepare datasets.
 
 Contents
+
 Supervised Learning Algorithms
 Linear Regression
 
