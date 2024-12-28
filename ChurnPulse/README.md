@@ -21,11 +21,8 @@ Insights: Identify key factors driving customer churn.
 Tools Used
 
 Python: For implementation.
-
 Pandas and NumPy: For data processing.
-
 Scikit-learn: For building and evaluating models.
-
 Matplotlib and Seaborn: For visualizing results.
 
 Applications
