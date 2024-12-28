@@ -1,5 +1,7 @@
 Customer Churn Prediction
+
 Overview
+
 This project predicts customer churn, which helps businesses identify customers likely to stop using their services. By understanding churn patterns, companies can take steps to retain customers and improve satisfaction.
 
 Dataset
