@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Prediction Form</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #e9ecef;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        label {
+            font-size: 16px;
+            margin-bottom: 5px;
+            display: block;
+            color: #555;
+        }
+        input[type="text"] {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        input[type="submit"] {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            background-color: #007bff; /* Bootstrap primary color */
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease; /* Smooth transition */
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3; /* Darker blue on hover */
+        }
+        .result {
+            margin-top: 20px;
+            text-align: center; /* Center align result text */
+        }
+        .prediction {
+            font-size: 24px;
+            font-weight: bold;
+            color: #28a745; /* Green color for predicted disease */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Human Disease Prediction</h2>
+
+        <!-- Form for input -->
+        <form action="/" method="POST">
+            <label for="diarrhoea">Diarrhoea:</label>
+            <input type="text" name="diarrhoea" required>
+
+            <label for="sweating">Sweating:</label>
+            <input type="text" name="sweating" required>
+
+            <label for="unsteadiness">Unsteadiness:</label>
+            <input type="text" name="unsteadiness" required>
+
+            <label for="spinning_movements">Spinning Movements:</label>
+            <input type="text" name="spinning_movements" required>
+
+            <label for="bruising">Bruising:</label>
+            <input type="text" name="bruising" required>
+
+            <label for="prominent_veins_on_calf">Prominent Veins on Calf:</label>
+            <input type="text" name="prominent_veins_on_calf" required>
+
+            <label for="swollen_legs">Swollen Legs:</label>
+            <input type="text" name="swollen_legs" required>
+
+            <label for="cramps">Cramps:</label>
+            <input type="text" name="cramps" required>
+
+            <label for="muscle_wasting">Muscle Wasting:</label>
+            <input type="text" name="muscle_wasting" required>
+
+            <label for="patches_in_throat">Patches in Throat:</label>
+            <input type="text" name="patches_in_throat" required>
+
+            <label for="extra_marital_contacts">Extra Marital Contacts:</label>
+            <input type="text" name="extra_marital_contacts" required>
+
+            <label for="swollen_blood_vessels">Swollen Blood Vessels:</label>
+            <input type="text" name="swollen_blood_vessels" required>
+
+            <label for="continuous_sneezing">Continuous Sneezing:</label>
+            <input type="text" name="continuous_sneezing" required>
+
+            <label for="continuous_feel_of_urine">Continuous Feel of Urine:</label>
+            <input type="text" name="continuous_feel_of_urine" required>
+
+            <label for="bladder_discomfort">Bladder Discomfort:</label>
+            <input type="text" name="bladder_discomfort" required>
+
+            <label for="loss_of_balance">Loss of Balance:</label>
+            <input type="text" name="loss_of_balance" required>
+
+            <label for="pus_filled_pimples">Pus Filled Pimples:</label>
+            <input type="text" name="pus_filled_pimples" required>
+
+            <label for="blackheads">Blackheads:</label>
+            <input type="text" name="blackheads" required>
+
+            <label for="scurring">Scurring:</label>
+            <input type="text" name="scurring" required>
+
+            <label for="joint_pain">Joint Pain:</label>
+            <input type="text" name="joint_pain" required>
+
+           <!-- Submit Button -->
+           <input type="submit" value="Submit">
+        </form>
+
+        <!-- Display prediction result -->
+        {% if prediction %}
+        <div class='result'>
+          <h3>Predicted Disease:</h3> 
+          <p class='prediction'>{{ prediction }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
