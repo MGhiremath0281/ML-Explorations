@@ -7,7 +7,7 @@ This project predicts customer churn, which helps businesses identify customers 
 ## Dataset
 
 The project uses the **Telco Customer Churn Dataset**, which contains the following features:
-
+j
 - **Customer Information**: Gender, age, tenure, etc.
 - **Service Details**: Contract type, payment method, internet service, etc.
 - **Usage and Charges**: Monthly charges, total charges, etc.
