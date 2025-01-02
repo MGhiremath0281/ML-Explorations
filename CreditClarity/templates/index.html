@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            color: #333;
+        }
+        h1 {
+            color: #4caf50;
+        }
+        h2 {
+            color: #ff5722;
+        }
+        form {
+            background: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 500px;
+            width: 100%;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        select, input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px 15px;
+            background-color: #e7f5e9;
+            border: 1px solid #d4edda;
+            border-radius: 5px;
+            color: #155724;
+            font-size: 18px;
+            text-align: center;
+            max-width: 500px;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Loan Approval Prediction</h1>
+
+    {% if result is not none %}
+        <div class="result">
+            <strong>Result: {{ result }}</strong>
+        </div>
+    {% endif %}
+
+    <form action="/" method="post">
+        <label for="dependents">Dependents:</label>
+        <select id="dependents" name="dependents" required>
+            <option value="" disabled selected>Select number of dependents</option>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3+">3+</option>
+        </select>
+
+        <label for="married">Married:</label>
+        <select id="married" name="married" required>
+            <option value="" disabled selected>Select marital status</option>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+
+        <label for="self_employed">Self Employed:</label>
+        <select id="self_employed" name="self_employed" required>
+            <option value="" disabled selected>Are you self-employed?</option>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+
+        <label for="loan_amount">Loan Amount:</label>
+        <input type="number" id="loan_amount" name="loan_amount" placeholder="Enter loan amount" required>
+
+        <label for="loan_term">Loan Term (in months):</label>
+        <input type="number" id="loan_term" name="loan_term" placeholder="Enter loan term in months" required>
+
+        <label for="credit_history">Credit History:</label>
+        <select id="credit_history" name="credit_history" required>
+            <option value="" disabled selected>Select credit history</option>
+            <option value="1">Good</option>
+            <option value="0">Bad</option>
+        </select>
+
+        <label for="education">Education:</label>
+        <select id="education" name="education" required>
+            <option value="" disabled selected>Highest education level</option>
+            <option value="1">Graduate</option>
+            <option value="0">Not Graduate</option>
+        </select>
+
+        <label for="gender_male">Gender:</label>
+        <select id="gender_male" name="gender_male" required>
+            <option value="" disabled selected>Select gender</option>
+            <option value="1">Male</option>
+            <option value="0">Female</option>
+        </select>
+
+        <label for="property_area_semiurban">Property Area:</label>
+        <select id="property_area_semiurban" name="property_area_semiurban" required>
+            <option value="" disabled selected>Select property area</option>
+            <option value="1">Semi-Urban</option>
+            <option value="0">Other</option>
+        </select>
+
+        <label for="property_area_urban">Urban Property Area:</label>
+        <select id="property_area_urban" name="property_area_urban" required>
+            <option value="" disabled selected>Is property urban?</option>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+
+        <label for="total_income">Total Income:</label>
+        <input type="number" id="total_income" name="total_income" placeholder="Enter total income" required>
+
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>
