@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Volume Prediction</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ecf0f1; /* Light gray background */
+            margin: 0;
+            padding: 0;
+            color: #2c3e50; /* Darker text for contrast */
+        }
+
+        h1 {
+            text-align: center;
+            color: #2980b9; /* Bright blue header */
+            margin-top: 30px;
+            font-size: 2.8em;
+        }
+
+        .container {
+            max-width: 700px; /* Increased width for better layout */
+            margin: 40px auto; /* Added margin for better spacing */
+            background-color: #ffffff;
+            padding: 50px; /* Increased padding for a spacious feel */
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+            border-radius: 15px; /* More rounded corners */
+            border-top: 5px solid #e67e22; /* Orange top border for emphasis */
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            font-weight: bold;
+            margin-bottom: 12px; /* Increased spacing below labels */
+        }
+
+        input,
+        select {
+            padding: 18px; /* Increased padding for comfort */
+            margin-bottom: 25px; /* Increased spacing between fields */
+            border: 1px solid #bdc3c7;
+            border-radius: 8px; /* More rounded corners */
+            font-size: 18px; /* Increased font size for better readability */
+            transition: border-color 0.3s ease-in-out; /* Smooth transition on focus */
+            width: 100%; /* Ensure fields take full container width */
+        }
+
+        input:focus,
+        select:focus {
+            border-color: #e67e22; /* Highlight border on focus */
+            outline: none; /* Remove default outline */
+        }
+
+        input[type="submit"] {
+            background-color: #e67e22; /* Orange button */
+            color: white;
+            cursor: pointer;
+            border: none;
+            font-size: 20px; /* Increased button font size */
+            padding: 18px; /* Increased button padding */
+            transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out; /* Added transform effect */
+        }
+
+        input[type="submit"]:hover {
+            background-color: #d35400; /* Darker orange shade on hover */
+            transform: translateY(-2px); /* Slight lift effect on hover */
+        }
+
+        .prediction-result {
+            font-size: 24px; /* Larger text for results */
+            color: #2980b9;
+            text-align: center;
+            margin-top: 30px; /* Increased margin for separation from form */
+            font-weight: bold;
+        }
+
+        .form-group {
+            margin-bottom: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Traffic Volume Prediction</h1>
+
+    <div class="container">
+        <form method="POST" action="/predict">
+            <div class="form-group">
+                <label for="month">Month:</label>
+                <input type="number" id="month" name="month" min="1" max="12" placeholder="Enter Month (1-12)" required>
+            </div>
+
+            <div class="form-group">
+                <label for="location">Location:</label>
+                <select id="location" name="location" required>
+                    <option value="Koramangala">Koramangala</option>
+                    <option value="Marathahalli">Marathahalli</option>
+                    <option value="Indiranagar">Indiranagar</option>
+                    <option value="Whitefield">Whitefield</option>
+                    <option value="MG Road">MG Road</option>
+                    <option value="Jayanagar">Jayanagar</option>
+                    <option value="Hebbal">Hebbal</option>
+                    <option value="Bannerghatta Road">Bannerghatta Road</option>
+                    <option value="BTM Layout">BTM Layout</option>
+                    <option value="Banaswadi">Banaswadi</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="weather">Weather:</label>
+                <select id="weather" name="weather" required>
+                    <option value="Clear">Clear</option>
+                    <option value="Rain">Rain</option>
+                    <option value="Fog">Fog</option>
+                    <option value="Snow">Snow</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="hour">Hour of the Day:</label>
+                <input type="number" id="hour" name="hour" min="0" max="23" placeholder="Enter Hour (0-23)" required>
+            </div>
+
+            <input type="submit" value="Predict">
+        </form>
+
+        {% if prediction_text %}
+        <div class="prediction-result">
+            <p>{{ prediction_text }}</p>
+        </div>
+        {% endif %}
+    </div>
+
+</body>
+
+</html>
