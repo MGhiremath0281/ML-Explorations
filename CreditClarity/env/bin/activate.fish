@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/muttuh028/ML-Exploration/Regression/env"
+set -gx VIRTUAL_ENV "/home/muttuh028/ML-Exploration/Regression/CreditClarity/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

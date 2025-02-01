@@ -3,152 +3,158 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Loan Prediction</title>
+    <title>Loan Approval Prediction Form</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
+            background-color: #f8f9fa;
             margin: 0;
             padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-            color: #333;
         }
-        h1 {
-            color: #4caf50;
+
+        .form-container {
+            width: 50%;
+            margin: 50px auto;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
+
         h2 {
-            color: #ff5722;
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 20px;
         }
-        form {
-            background: #ffffff;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            max-width: 500px;
-            width: 100%;
-        }
+
         label {
-            display: block;
-            margin-bottom: 8px;
+            font-size: 16px;
+            color: #34495e;
             font-weight: bold;
         }
-        select, input {
+
+        input, select {
             width: 100%;
-            padding: 10px;
-            margin-bottom: 15px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
+            padding: 12px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 6px;
             font-size: 14px;
+            color: #2c3e50;
+            background-color: #f8f9fa;
         }
+
+        input:focus, select:focus {
+            border-color: #e67e22;
+            outline: none;
+            box-shadow: 0 0 5px rgba(230, 126, 34, 0.5);
+        }
+
         button {
-            background-color: #4caf50;
+            width: 100%;
+            padding: 14px;
+            background-color: #e67e22;
             color: white;
-            padding: 10px 15px;
             border: none;
-            border-radius: 5px;
+            border-radius: 6px;
             cursor: pointer;
             font-size: 16px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
         }
+
         button:hover {
-            background-color: #45a049;
+            background-color: #d35400;
         }
-        .result {
-            margin-top: 20px;
-            padding: 10px 15px;
-            background-color: #e7f5e9;
-            border: 1px solid #d4edda;
-            border-radius: 5px;
-            color: #155724;
-            font-size: 18px;
+
+        h3 {
             text-align: center;
-            max-width: 500px;
-            width: 100%;
+            color: #27ae60;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>Loan Approval Prediction</h1>
 
-    {% if result is not none %}
-        <div class="result">
-            <strong>Result: {{ result }}</strong>
-        </div>
-    {% endif %}
+    <div class="form-container">
+        <h2>Loan Approval Prediction</h2>
+        <form action="/predict" method="POST">
+            <!-- Dependents -->
+            <label for="Dependents">Dependents:</label>
+            <select id="Dependents" name="Dependents" required>
+                <option value="0">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3+</option>
+            </select><br><br>
 
-    <form action="/" method="post">
-        <label for="dependents">Dependents:</label>
-        <select id="dependents" name="dependents" required>
-            <option value="" disabled selected>Select number of dependents</option>
-            <option value="0">0</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3+">3+</option>
-        </select>
+            <!-- Married -->
+            <label for="Married">Married:</label>
+            <select id="Married" name="Married" required>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </select><br><br>
 
-        <label for="married">Married:</label>
-        <select id="married" name="married" required>
-            <option value="" disabled selected>Select marital status</option>
-            <option value="1">Yes</option>
-            <option value="0">No</option>
-        </select>
+            <!-- Self Employed -->
+            <label for="Self_Employed">Self Employed:</label>
+            <select id="Self_Employed" name="Self_Employed" required>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </select><br><br>
 
-        <label for="self_employed">Self Employed:</label>
-        <select id="self_employed" name="self_employed" required>
-            <option value="" disabled selected>Are you self-employed?</option>
-            <option value="1">Yes</option>
-            <option value="0">No</option>
-        </select>
+            <!-- Loan Amount -->
+            <label for="LoanAmount">Loan Amount:</label>
+            <input type="number" id="LoanAmount" name="LoanAmount" step="0.01" required><br><br>
 
-        <label for="loan_amount">Loan Amount:</label>
-        <input type="number" id="loan_amount" name="loan_amount" placeholder="Enter loan amount" required>
+            <!-- Loan Amount Term -->
+            <label for="Loan_Amount_Term">Loan Amount Term:</label>
+            <input type="number" id="Loan_Amount_Term" name="Loan_Amount_Term" required><br><br>
 
-        <label for="loan_term">Loan Term (in months):</label>
-        <input type="number" id="loan_term" name="loan_term" placeholder="Enter loan term in months" required>
+            <!-- Credit History -->
+            <label for="Credit_History">Credit History:</label>
+            <select id="Credit_History" name="Credit_History" required>
+                <option value="1">Good</option>
+                <option value="0">Bad</option>
+            </select><br><br>
 
-        <label for="credit_history">Credit History:</label>
-        <select id="credit_history" name="credit_history" required>
-            <option value="" disabled selected>Select credit history</option>
-            <option value="1">Good</option>
-            <option value="0">Bad</option>
-        </select>
+            <!-- Education -->
+            <label for="Education">Education:</label>
+            <select id="Education" name="Education" required>
+                <option value="1">Graduate</option>
+                <option value="0">Not Graduate</option>
+            </select><br><br>
 
-        <label for="education">Education:</label>
-        <select id="education" name="education" required>
-            <option value="" disabled selected>Highest education level</option>
-            <option value="1">Graduate</option>
-            <option value="0">Not Graduate</option>
-        </select>
+            <!-- Gender Male -->
+            <label for="Gender_Male">Gender:</label>
+            <select id="Gender_Male" name="Gender_Male" required>
+                <option value="1">Male</option>
+                <option value="0">Female</option>
+            </select><br><br>
 
-        <label for="gender_male">Gender:</label>
-        <select id="gender_male" name="gender_male" required>
-            <option value="" disabled selected>Select gender</option>
-            <option value="1">Male</option>
-            <option value="0">Female</option>
-        </select>
+            <!-- Property Area -->
+            <label for="Property_Area_Semiurban">Property Area (Semiurban):</label>
+            <select id="Property_Area_Semiurban" name="Property_Area_Semiurban" required>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </select><br><br>
 
-        <label for="property_area_semiurban">Property Area:</label>
-        <select id="property_area_semiurban" name="property_area_semiurban" required>
-            <option value="" disabled selected>Select property area</option>
-            <option value="1">Semi-Urban</option>
-            <option value="0">Other</option>
-        </select>
+            <label for="Property_Area_Urban">Property Area (Urban):</label>
+            <select id="Property_Area_Urban" name="Property_Area_Urban" required>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </select><br><br>
 
-        <label for="property_area_urban">Urban Property Area:</label>
-        <select id="property_area_urban" name="property_area_urban" required>
-            <option value="" disabled selected>Is property urban?</option>
-            <option value="1">Yes</option>
-            <option value="0">No</option>
-        </select>
+            <!-- Total Income -->
+            <label for="Total_Income">Total Income:</label>
+            <input type="number" id="Total_Income" name="Total_Income" step="0.01" required><br><br>
 
-        <label for="total_income">Total Income:</label>
-        <input type="number" id="total_income" name="total_income" placeholder="Enter total income" required>
+            <button type="submit">Predict</button>
+        </form>
 
-        <button type="submit">Predict</button>
-    </form>
+        {% if result %}
+        <h3>Prediction Result: {{ result }}</h3>
+        {% endif %}
+    </div>
+
 </body>
 </html>
