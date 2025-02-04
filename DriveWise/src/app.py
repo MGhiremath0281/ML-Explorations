@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 import pickle
 import pandas as pd
 
@@ -6,19 +6,20 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the model pipeline
-model_pipeline_path = "model_pipeline.pkl"
-model_pipeline = pickle.load(open(model_pipeline_path, "rb"))
+model_pipeline_path = "D:\Ml Exploration\ML-Explorations\DriveWise\model\model_pipeline.pkl"
+with open(model_pipeline_path, "rb") as f:
+    model_pipeline = pickle.load(f)
 
 @app.route('/')
 def index():
-    return "Welcome to the Car Rental Price Prediction API!"
+    return render_template('index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
-        # Get JSON data from Postman
-        data = request.get_json()
-
+        # Get form data
+        data = request.form.to_dict()
+        
         # Ensure the expected fields are in the request
         required_fields = [
             'Car Make', 'Car Model', 'Mileage (in km)', 'Engine Size (L)', 'Fuel Type',
@@ -42,5 +43,4 @@ def predict():
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    # Bind to 0.0.0.0 to allow access externally (works for cloud environments like Codespaces or VM)
     app.run(host='0.0.0.0', port=5000, debug=True)

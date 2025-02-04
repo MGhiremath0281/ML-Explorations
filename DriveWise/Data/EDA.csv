@@ -1,0 +1,1001 @@
+Car Make,Car Model,Year of Manufacture,Mileage (in km),Fuel Type,Engine Size (L),Location,Rental Duration (days),Car Condition,Demand,Daily Rental Price,Car Age,Engine Size (L),Engine Size (L)^2
+Chevrolet,Sedan,2007,16116,Hybrid,1.4,Dallas,29,Old,Low,61.51695794708541,17,1.4,1.9599999999999997
+Honda,Convertible,2014,70794,Hybrid,2.9,Los Angeles,26,Old,Medium,41.749575719894224,10,2.9,8.41
+Kia,Truck,2007,136354,Diesel,5.0,New York,3,Old,Medium,16.35848069486174,17,5.0,25.0
+Nissan,Convertible,2016,137970,Petrol,5.5,Phoenix,15,Well-Maintained,Low,41.53324906073647,8,5.5,30.25
+Chevrolet,Convertible,2011,9135,Hybrid,2.0,Chicago,3,New,Medium,79.26709945891217,13,2.0,4.0
+Tesla,Convertible,2007,142701,Hybrid,1.3,Phoenix,23,Well-Maintained,High,52.00938631718585,17,1.3,1.6900000000000002
+Ford,Convertible,2013,114472,Electric,5.4,Chicago,29,Well-Maintained,Low,67.13391564883004,11,5.4,29.160000000000004
+Chevrolet,Hatchback,2003,130147,Hybrid,2.9,Houston,2,Old,High,28.237953448493133,21,2.9,8.41
+Kia,Hatchback,2000,94087,Hybrid,3.7,Los Angeles,1,New,Low,58.39959519521744,24,3.7,13.690000000000001
+Nissan,SUV,2000,38380,Hybrid,5.8,Houston,9,Well-Maintained,Medium,52.28496634424274,24,5.8,33.64
+Honda,Sedan,2018,134951,Hybrid,1.3,Chicago,9,Old,High,39.24500103911252,6,1.3,1.6900000000000002
+Kia,Convertible,2015,22071,Electric,4.2,Chicago,23,Well-Maintained,Medium,79.70857346763998,9,4.2,17.64
+Kia,SUV,2013,25074,Diesel,1.4,Chicago,7,Well-Maintained,Medium,39.87707030524879,11,1.4,1.9599999999999997
+Ford,Sedan,2020,72843,Diesel,2.9,Dallas,3,Old,Low,21.307040611094774,4,2.9,8.41
+Hyundai,Coupe,2015,44901,Petrol,5.0,New York,26,Old,High,37.65003923917013,9,5.0,25.0
+Nissan,Truck,2004,16205,Hybrid,3.2,Los Angeles,18,New,Medium,85.69714059660548,20,3.2,10.240000000000002
+BMW,Hatchback,2008,191733,Electric,6.0,Houston,11,Well-Maintained,Low,53.20567260621644,16,6.0,36.0
+Kia,Coupe,2001,129661,Petrol,3.8,Houston,7,Old,Low,15.0,23,3.8,14.44
+Hyundai,Sedan,2017,10906,Petrol,2.6,Phoenix,9,Old,Low,32.66976573997892,7,2.6,6.760000000000001
+BMW,Coupe,2005,138663,Diesel,2.1,Chicago,1,New,Medium,48.8439821096358,19,2.1,4.41
+Nissan,Truck,2008,130576,Electric,2.8,San Francisco,29,New,Low,91.33866538763944,16,2.8,7.839999999999999
+Toyota,Sedan,2000,67987,Electric,2.9,Chicago,14,Old,High,36.09094410284391,24,2.9,8.41
+Tesla,Coupe,2008,199442,Electric,1.3,Chicago,20,New,High,72.3009558147261,16,1.3,1.6900000000000002
+Hyundai,Hatchback,2015,85685,Diesel,2.8,San Francisco,6,Old,Medium,15.0,9,2.8,7.839999999999999
+Mercedes,Hatchback,2012,115454,Diesel,3.3,Houston,7,Well-Maintained,High,29.889891165977943,12,3.3,10.889999999999999
+Toyota,SUV,2008,110487,Diesel,4.6,Phoenix,10,New,Low,57.574783505291904,16,4.6,21.159999999999997
+Tesla,Coupe,2020,59400,Diesel,4.3,New York,7,Well-Maintained,Medium,41.93906867029074,4,4.3,18.49
+Ford,Convertible,2012,161222,Diesel,4.5,San Francisco,26,Well-Maintained,Low,40.59157198551321,12,4.5,20.25
+Chevrolet,Coupe,2008,36852,Hybrid,1.0,Dallas,2,Well-Maintained,Medium,62.39874655262105,16,1.0,1.0
+Honda,Sedan,2010,178942,Hybrid,2.1,Los Angeles,4,Old,Medium,29.909688511864104,14,2.1,4.41
+Mercedes,Sedan,2003,57756,Electric,4.3,San Francisco,21,Well-Maintained,Low,75.3402238934415,21,4.3,18.49
+Ford,Coupe,2001,120357,Petrol,3.4,New York,28,Well-Maintained,High,48.64826254199561,23,3.4,11.559999999999999
+Nissan,Truck,2005,124052,Electric,1.0,Houston,17,Well-Maintained,High,68.60509095892745,19,1.0,1.0
+Ford,Hatchback,2013,61481,Petrol,5.0,Dallas,1,Old,Medium,21.032648339062806,11,5.0,25.0
+Chevrolet,Sedan,2003,6283,Diesel,4.9,Dallas,10,Well-Maintained,Low,39.35489708677708,21,4.9,24.010000000000005
+Nissan,Hatchback,2005,38691,Petrol,3.7,Dallas,19,Well-Maintained,Low,41.1280371525726,19,3.7,13.690000000000001
+Mercedes,Sedan,2018,137197,Electric,1.3,Chicago,15,New,Medium,87.7616530372076,6,1.3,1.6900000000000002
+Chevrolet,SUV,2005,31170,Electric,4.8,Los Angeles,10,Old,High,42.6381325140521,19,4.8,23.04
+BMW,Convertible,2001,13438,Petrol,3.9,Houston,19,Well-Maintained,Low,47.29065757923008,23,3.9,15.209999999999999
+Honda,Sedan,2017,25095,Hybrid,4.9,Houston,12,New,High,82.24464456023092,7,4.9,24.010000000000005
+Mercedes,Hatchback,2012,152226,Diesel,4.8,Dallas,24,Old,High,18.634130301753583,12,4.8,23.04
+BMW,SUV,2008,144076,Diesel,5.0,Houston,16,Old,Medium,17.508796448884627,16,5.0,25.0
+Tesla,Sedan,2022,14752,Electric,3.6,Los Angeles,9,Old,Medium,46.74388254937982,2,3.6,12.96
+Mercedes,Truck,2018,60426,Hybrid,1.7,Los Angeles,15,Old,High,44.74569232904048,6,1.7,2.8899999999999997
+Tesla,Convertible,2012,31819,Petrol,4.4,Phoenix,27,Old,Low,41.875400975675646,12,4.4,19.360000000000003
+Nissan,Sedan,2010,97051,Diesel,4.1,San Francisco,28,Old,Low,16.621820791705893,14,4.1,16.81
+BMW,SUV,2000,160289,Hybrid,4.7,San Francisco,17,Well-Maintained,Medium,37.76344060961444,24,4.7,22.090000000000003
+Honda,Truck,2023,37994,Diesel,1.8,Phoenix,14,Well-Maintained,High,56.07804980751529,1,1.8,3.24
+Chevrolet,Coupe,2021,151108,Hybrid,2.0,New York,27,Well-Maintained,Low,68.70983936830432,3,2.0,4.0
+Kia,SUV,2006,102756,Hybrid,5.5,San Francisco,18,Well-Maintained,Low,52.27053634930159,18,5.5,30.25
+Ford,SUV,2020,185488,Electric,4.7,Los Angeles,26,New,Medium,72.45879692477732,4,4.7,22.090000000000003
+Toyota,Truck,2014,145659,Diesel,5.5,Los Angeles,2,Well-Maintained,High,38.58962086970376,10,5.5,30.25
+Honda,SUV,2000,100665,Petrol,4.8,San Francisco,4,Old,Low,15.0,24,4.8,23.04
+BMW,Truck,2011,136717,Electric,4.0,Los Angeles,18,Well-Maintained,Medium,57.02376828536194,13,4.0,16.0
+Kia,Sedan,2006,167002,Electric,4.3,Phoenix,7,Well-Maintained,Low,49.39522436159888,18,4.3,18.49
+Honda,Truck,2014,86835,Petrol,5.4,Dallas,13,Old,Low,19.487833140446213,10,5.4,29.160000000000004
+BMW,Truck,2020,127232,Electric,3.9,Dallas,15,Well-Maintained,Low,58.39935136421403,4,3.9,15.209999999999999
+Hyundai,Convertible,2018,166162,Hybrid,4.2,Houston,25,Well-Maintained,Medium,53.59099903717955,6,4.2,17.64
+Hyundai,Truck,2000,188214,Hybrid,1.8,Dallas,23,Well-Maintained,High,54.96964280463841,24,1.8,3.24
+Tesla,Truck,2016,162547,Diesel,3.4,Chicago,28,New,Medium,69.54806794212641,8,3.4,11.559999999999999
+Honda,Coupe,2016,154960,Diesel,4.6,Phoenix,22,Well-Maintained,High,44.37258670308591,8,4.6,21.159999999999997
+Hyundai,Sedan,2002,48732,Petrol,2.4,Los Angeles,26,Old,Low,16.19783387132717,22,2.4,5.76
+BMW,Convertible,2011,51305,Diesel,2.0,San Francisco,1,Old,High,21.760959475277936,13,2.0,4.0
+Tesla,Coupe,2005,182109,Hybrid,2.6,Dallas,11,Well-Maintained,Low,45.41100104204735,19,2.6,6.760000000000001
+BMW,Hatchback,2010,14346,Petrol,2.2,Phoenix,10,Well-Maintained,Low,40.17933429907417,14,2.2,4.840000000000001
+Tesla,Sedan,2002,5587,Petrol,2.1,Dallas,25,Well-Maintained,Medium,52.23355066736916,22,2.1,4.41
+Honda,Sedan,2007,17763,Diesel,3.1,New York,5,Old,Low,27.477462481293443,17,3.1,9.610000000000001
+Kia,Hatchback,2013,195237,Hybrid,5.5,Los Angeles,16,Old,Medium,30.826829592968867,11,5.5,30.25
+Chevrolet,Truck,2013,74615,Petrol,3.5,New York,11,New,High,59.13915299149887,11,3.5,12.25
+Mercedes,Coupe,2009,172188,Hybrid,1.9,Los Angeles,21,New,High,70.84632321541987,15,1.9,3.61
+Kia,SUV,2001,125987,Hybrid,1.4,Phoenix,6,New,Low,67.55178465600599,23,1.4,1.9599999999999997
+Nissan,Convertible,2013,96353,Hybrid,4.5,Houston,9,Old,Medium,34.65726017108825,11,4.5,20.25
+BMW,SUV,2008,100648,Diesel,2.9,Dallas,13,New,Low,64.71142444553448,16,2.9,8.41
+Nissan,Hatchback,2002,30556,Electric,5.1,Dallas,24,Well-Maintained,Medium,69.91840778420054,22,5.1,26.009999999999998
+Kia,Sedan,2020,64042,Electric,4.3,Chicago,8,Well-Maintained,Medium,69.36461332643916,4,4.3,18.49
+Tesla,Sedan,2007,23099,Petrol,5.0,San Francisco,14,Old,Medium,30.2970032349588,17,5.0,25.0
+Mercedes,Convertible,2015,114089,Hybrid,2.4,New York,24,New,High,75.75658648347068,9,2.4,5.76
+Mercedes,Sedan,2001,181168,Diesel,4.5,Dallas,1,Well-Maintained,Medium,21.129930176783397,23,4.5,20.25
+Toyota,Sedan,2005,149302,Hybrid,2.3,Phoenix,17,Old,High,27.408227632405172,19,2.3,5.289999999999999
+Mercedes,Convertible,2020,165081,Hybrid,5.7,Houston,24,New,Medium,83.7092299740354,4,5.7,32.49
+Chevrolet,Coupe,2011,38866,Diesel,4.2,San Francisco,5,Well-Maintained,High,44.42616523352012,13,4.2,17.64
+Mercedes,Coupe,2004,110400,Electric,2.6,Phoenix,25,New,High,80.51893768947205,20,2.6,6.760000000000001
+Kia,Convertible,2001,89246,Hybrid,2.3,New York,2,Old,High,19.170742982786685,23,2.3,5.289999999999999
+Toyota,Hatchback,2015,81975,Hybrid,2.0,Chicago,25,New,Low,76.8154583393973,9,2.0,4.0
+Kia,Sedan,2004,177927,Electric,4.5,Dallas,28,Old,Medium,37.761713099724766,20,4.5,20.25
+Kia,Sedan,2014,86557,Diesel,2.1,Phoenix,24,New,Low,64.7539366138327,10,2.1,4.41
+Ford,Hatchback,2011,142488,Petrol,4.0,San Francisco,9,Well-Maintained,Medium,37.08063234048616,13,4.0,16.0
+Toyota,Coupe,2003,77516,Electric,2.3,Los Angeles,4,Old,Medium,25.534298674618867,21,2.3,5.289999999999999
+Kia,Truck,2014,191987,Petrol,4.3,Houston,17,Old,Low,22.264755991044453,10,4.3,18.49
+Ford,Truck,2010,154130,Petrol,5.1,San Francisco,17,Old,High,19.409320449658374,14,5.1,26.009999999999998
+Ford,Truck,2015,176790,Electric,4.9,Phoenix,21,New,Medium,78.81592544988862,9,4.9,24.010000000000005
+Toyota,Coupe,2022,37602,Hybrid,4.8,Houston,18,New,High,97.65529468201365,2,4.8,23.04
+Nissan,Coupe,2005,194139,Petrol,1.9,Dallas,16,Well-Maintained,Low,33.83208967110568,19,1.9,3.61
+Tesla,Hatchback,2013,163588,Petrol,1.4,Los Angeles,8,Old,High,15.0,11,1.4,1.9599999999999997
+Chevrolet,Sedan,2017,134295,Diesel,4.5,Chicago,26,Old,Medium,26.457881548891645,7,4.5,20.25
+Tesla,Hatchback,2011,92969,Hybrid,2.8,San Francisco,11,New,Medium,64.87862850092628,13,2.8,7.839999999999999
+Mercedes,Hatchback,2010,137161,Petrol,3.2,Chicago,21,New,Medium,65.10095155274425,14,3.2,10.240000000000002
+Chevrolet,Coupe,2012,173418,Diesel,1.2,Los Angeles,21,Well-Maintained,Low,35.680241610041385,12,1.2,1.44
+Mercedes,Truck,2020,146559,Hybrid,2.3,Houston,18,Well-Maintained,Medium,47.453875773805095,4,2.3,5.289999999999999
+Kia,SUV,2022,5155,Electric,1.2,Dallas,23,New,Low,94.07080715295504,2,1.2,1.44
+BMW,Sedan,2010,128950,Electric,5.4,Phoenix,29,Old,High,48.95456024224705,14,5.4,29.160000000000004
+Toyota,Coupe,2022,72494,Diesel,2.2,Los Angeles,24,Well-Maintained,Medium,61.81901357518076,2,2.2,4.840000000000001
+Chevrolet,Truck,2015,81229,Electric,3.8,New York,10,New,Medium,82.48212759459042,9,3.8,14.44
+Chevrolet,SUV,2014,109648,Petrol,1.2,Houston,13,New,Medium,55.629743290035535,10,1.2,1.44
+Kia,SUV,2020,43547,Hybrid,4.3,Chicago,17,Old,High,40.04625155160449,4,4.3,18.49
+Nissan,Coupe,2014,33795,Petrol,2.6,San Francisco,18,New,Medium,77.69307309070554,10,2.6,6.760000000000001
+Ford,Convertible,2003,191368,Petrol,5.5,Los Angeles,10,New,Low,47.607338892236136,21,5.5,30.25
+Kia,Sedan,2010,26447,Electric,5.4,Chicago,16,Well-Maintained,High,66.70930189677627,14,5.4,29.160000000000004
+Hyundai,SUV,2018,172670,Petrol,2.6,Houston,20,New,High,56.8886410696223,6,2.6,6.760000000000001
+Ford,Coupe,2014,177886,Electric,5.5,Chicago,5,New,High,73.06914818866815,10,5.5,30.25
+Toyota,Coupe,2003,92960,Hybrid,6.0,Los Angeles,13,Well-Maintained,High,54.921592470356806,21,6.0,36.0
+Ford,Truck,2020,68278,Hybrid,5.1,Houston,18,Old,High,40.68707793272027,4,5.1,26.009999999999998
+Nissan,Convertible,2012,60077,Petrol,5.2,New York,17,Old,Low,20.77813754549529,12,5.2,27.040000000000003
+Ford,Sedan,2021,117782,Diesel,2.2,Los Angeles,9,Well-Maintained,High,35.760486521432526,3,2.2,4.840000000000001
+Toyota,Hatchback,2018,107932,Electric,3.9,Phoenix,14,Well-Maintained,Medium,60.86887709762821,6,3.9,15.209999999999999
+Nissan,Truck,2001,145600,Electric,1.3,Dallas,17,Old,High,28.991072732086216,23,1.3,1.6900000000000002
+Tesla,SUV,2013,186172,Petrol,1.5,Los Angeles,29,Old,High,28.47046009084783,11,1.5,2.25
+Chevrolet,SUV,2003,114869,Electric,6.0,Houston,4,Old,High,27.491096888702803,21,6.0,36.0
+Chevrolet,Truck,2015,144251,Electric,2.6,San Francisco,18,Old,High,33.82166776025135,9,2.6,6.760000000000001
+Mercedes,Coupe,2020,53781,Diesel,4.7,Dallas,27,Old,High,30.152512795502368,4,4.7,22.090000000000003
+Tesla,SUV,2019,191339,Diesel,5.0,Los Angeles,20,Well-Maintained,Low,37.45014199479203,5,5.0,25.0
+Tesla,Convertible,2013,160024,Petrol,5.3,New York,24,New,Low,51.3893793851058,11,5.3,28.09
+Ford,Sedan,2014,58798,Diesel,6.0,San Francisco,24,Old,High,30.81939643068802,10,6.0,36.0
+Chevrolet,Convertible,2002,103696,Petrol,2.2,New York,15,Old,Low,15.0,22,2.2,4.840000000000001
+Toyota,SUV,2007,55939,Hybrid,1.2,Phoenix,11,New,Medium,82.2030518337085,17,1.2,1.44
+Honda,Hatchback,2015,34516,Petrol,3.1,San Francisco,12,New,High,68.63281174620973,9,3.1,9.610000000000001
+Honda,Sedan,2009,192598,Hybrid,1.7,Chicago,9,New,Medium,73.34511800766221,15,1.7,2.8899999999999997
+Nissan,Sedan,2003,146521,Petrol,1.1,San Francisco,13,New,Medium,50.20899710248895,21,1.1,1.2100000000000002
+Chevrolet,Truck,2017,55290,Electric,2.8,Dallas,15,New,High,72.81128083014873,7,2.8,7.839999999999999
+Chevrolet,Truck,2001,131688,Diesel,4.9,San Francisco,27,New,Medium,66.11840600178101,23,4.9,24.010000000000005
+Honda,Hatchback,2016,91661,Hybrid,3.8,Houston,15,Well-Maintained,Medium,61.83961579238534,8,3.8,14.44
+Chevrolet,Coupe,2012,77954,Petrol,2.6,Houston,28,New,Medium,73.48453939480336,12,2.6,6.760000000000001
+Ford,Sedan,2003,27746,Diesel,4.3,Chicago,5,New,High,54.21708205127975,21,4.3,18.49
+Hyundai,Hatchback,2010,72990,Petrol,2.2,San Francisco,23,Well-Maintained,High,46.985759722023055,14,2.2,4.840000000000001
+BMW,Truck,2006,63810,Diesel,1.1,New York,19,New,Medium,65.0523043756783,18,1.1,1.2100000000000002
+Tesla,Truck,2011,123362,Diesel,4.8,New York,26,Old,High,22.970896911969508,13,4.8,23.04
+Mercedes,Sedan,2009,151295,Petrol,4.1,Los Angeles,20,Old,High,15.0,15,4.1,16.81
+Nissan,Convertible,2006,138669,Hybrid,4.8,Phoenix,26,New,Medium,88.97346024129527,18,4.8,23.04
+Hyundai,SUV,2012,7659,Hybrid,1.2,Dallas,25,Well-Maintained,High,74.90914618914111,12,1.2,1.44
+Honda,Truck,2006,91516,Electric,5.2,Phoenix,26,Old,Low,46.95292023510198,18,5.2,27.040000000000003
+Tesla,Coupe,2023,79567,Diesel,4.1,San Francisco,26,Well-Maintained,High,61.109428105069895,1,4.1,16.81
+Chevrolet,Coupe,2016,20037,Electric,3.8,Phoenix,14,Old,Low,54.22096105519421,8,3.8,14.44
+Mercedes,Truck,2009,131498,Electric,4.1,Los Angeles,28,New,Medium,79.96398559960149,15,4.1,16.81
+Chevrolet,Convertible,2009,182810,Petrol,5.3,Phoenix,17,Well-Maintained,High,38.96891378908845,15,5.3,28.09
+Toyota,Convertible,2023,17109,Petrol,3.9,Chicago,18,Well-Maintained,Medium,61.05108003289008,1,3.9,15.209999999999999
+Toyota,Hatchback,2003,27010,Petrol,3.9,Los Angeles,21,Well-Maintained,Medium,44.10357091342971,21,3.9,15.209999999999999
+Mercedes,Coupe,2019,13787,Diesel,6.0,Chicago,3,Old,Medium,31.570073341425225,5,6.0,36.0
+Mercedes,Hatchback,2003,144544,Petrol,4.8,San Francisco,2,Old,Medium,15.0,21,4.8,23.04
+Honda,Coupe,2021,159455,Petrol,3.2,Los Angeles,1,Old,Medium,15.0,3,3.2,10.240000000000002
+Mercedes,SUV,2006,66709,Diesel,4.5,San Francisco,10,New,High,62.32825233456613,18,4.5,20.25
+Ford,SUV,2021,39518,Diesel,2.9,San Francisco,19,Old,Low,40.8924885065248,3,2.9,8.41
+Chevrolet,Sedan,2000,58909,Hybrid,2.1,Phoenix,17,New,High,72.38002007436472,24,2.1,4.41
+Hyundai,Hatchback,2011,23351,Petrol,4.0,Chicago,12,Well-Maintained,High,48.98481090326131,13,4.0,16.0
+Kia,Truck,2023,189402,Petrol,5.6,San Francisco,1,Well-Maintained,High,41.138631131155975,1,5.6,31.359999999999996
+Mercedes,Hatchback,2012,20282,Petrol,5.6,Chicago,12,New,High,67.08976251986525,12,5.6,31.359999999999996
+Nissan,Truck,2009,157850,Hybrid,2.7,Chicago,17,Old,Low,31.20278388849791,15,2.7,7.290000000000001
+Toyota,Convertible,2014,160336,Petrol,3.6,Los Angeles,24,New,High,71.04115237238994,10,3.6,12.96
+Ford,Hatchback,2012,195747,Hybrid,2.1,Houston,3,Well-Maintained,Medium,44.11738735974552,12,2.1,4.41
+Tesla,Convertible,2022,10075,Electric,6.0,Phoenix,11,Well-Maintained,High,66.12009860419441,2,6.0,36.0
+Kia,SUV,2021,184526,Hybrid,5.9,San Francisco,17,New,High,69.57261173922818,3,5.9,34.81
+Hyundai,SUV,2021,33365,Electric,4.2,Chicago,23,Old,Low,60.10789607182721,3,4.2,17.64
+Kia,Sedan,2020,184272,Petrol,5.0,Dallas,26,Old,Low,24.68502453945237,4,5.0,25.0
+Mercedes,Hatchback,2021,16002,Electric,4.6,Houston,3,New,Medium,89.2128993336941,3,4.6,21.159999999999997
+Honda,Convertible,2008,18947,Hybrid,4.0,San Francisco,8,New,High,89.91612091583232,16,4.0,16.0
+Toyota,Truck,2008,99840,Diesel,1.3,Dallas,20,Old,High,18.932564219208025,16,1.3,1.6900000000000002
+Toyota,SUV,2014,121219,Electric,3.3,Phoenix,4,Well-Maintained,High,54.50793088283982,10,3.3,10.889999999999999
+Tesla,SUV,2009,83610,Electric,4.4,Phoenix,21,New,Medium,74.82444895280882,15,4.4,19.360000000000003
+Honda,Truck,2023,57142,Petrol,4.4,Chicago,22,Old,Low,40.593299444004856,1,4.4,19.360000000000003
+Chevrolet,Convertible,2009,61307,Hybrid,2.9,Chicago,7,Old,Medium,30.875738494687106,15,2.9,8.41
+BMW,Convertible,2007,140565,Electric,5.7,San Francisco,14,Well-Maintained,High,59.72568384400464,17,5.7,32.49
+Ford,Hatchback,2023,55085,Electric,1.8,Los Angeles,14,Well-Maintained,Low,75.75015065718651,1,1.8,3.24
+Toyota,Hatchback,2015,39228,Electric,3.5,Houston,4,Well-Maintained,Low,75.3254962939389,9,3.5,12.25
+Nissan,Coupe,2016,187947,Electric,4.5,San Francisco,16,Well-Maintained,Medium,58.45637788265606,8,4.5,20.25
+Toyota,Coupe,2004,167727,Diesel,4.5,Houston,24,Well-Maintained,Low,33.44956687839946,20,4.5,20.25
+Kia,Sedan,2003,48472,Hybrid,4.2,Chicago,29,New,Low,86.41811479998546,21,4.2,17.64
+Toyota,SUV,2017,54437,Petrol,2.4,Phoenix,22,Old,High,28.263735760857063,7,2.4,5.76
+Toyota,Hatchback,2023,185488,Petrol,1.8,Chicago,1,New,High,53.045800887544544,1,1.8,3.24
+BMW,Convertible,2018,64711,Diesel,4.2,Phoenix,17,New,Low,68.02548747228813,6,4.2,17.64
+BMW,Truck,2003,142888,Hybrid,4.0,San Francisco,25,New,Low,72.35830775164065,21,4.0,16.0
+Hyundai,Convertible,2006,82175,Electric,1.9,Phoenix,10,New,Medium,73.28816756036218,18,1.9,3.61
+Chevrolet,SUV,2009,69307,Diesel,4.5,Chicago,22,New,Medium,68.07223029881388,15,4.5,20.25
+Nissan,Coupe,2017,51733,Hybrid,3.3,New York,16,Well-Maintained,Low,68.45115012843034,7,3.3,10.889999999999999
+Toyota,Convertible,2018,133202,Electric,4.3,Houston,16,Well-Maintained,High,53.41951602664136,6,4.3,18.49
+Toyota,Sedan,2003,100028,Diesel,5.2,Dallas,26,Old,Low,19.057036733674316,21,5.2,27.040000000000003
+Ford,SUV,2009,147312,Hybrid,1.8,Phoenix,8,New,Low,67.61023584590134,15,1.8,3.24
+BMW,Coupe,2000,97493,Petrol,1.1,Phoenix,29,Old,High,15.0,24,1.1,1.2100000000000002
+Nissan,Truck,2022,130149,Petrol,4.9,New York,7,Well-Maintained,High,48.1913221685646,2,4.9,24.010000000000005
+Tesla,Coupe,2017,168834,Hybrid,4.0,San Francisco,28,Well-Maintained,Medium,55.06444592723473,7,4.0,16.0
+Hyundai,Sedan,2004,13259,Petrol,4.5,San Francisco,6,Well-Maintained,Medium,36.97956240620786,20,4.5,20.25
+Chevrolet,SUV,2014,186211,Hybrid,5.2,San Francisco,16,New,Medium,68.34328861871606,10,5.2,27.040000000000003
+Honda,Truck,2016,133775,Electric,5.0,Dallas,20,New,Medium,83.30686419399112,8,5.0,25.0
+Chevrolet,Sedan,2002,19849,Hybrid,5.8,Los Angeles,16,Well-Maintained,High,56.23763551023831,22,5.8,33.64
+Kia,Coupe,2011,86768,Electric,3.7,New York,7,Old,Low,43.22206832994463,13,3.7,13.690000000000001
+Toyota,Sedan,2001,111108,Diesel,3.4,Dallas,9,Old,Medium,15.0,23,3.4,11.559999999999999
+Hyundai,SUV,2000,94709,Hybrid,3.0,New York,14,Well-Maintained,Medium,46.34379053197322,24,3.0,9.0
+Kia,Hatchback,2022,59869,Diesel,1.8,Phoenix,11,Old,High,25.89797441538814,2,1.8,3.24
+Nissan,Sedan,2020,131888,Petrol,3.9,Houston,26,Well-Maintained,High,40.2261515180484,4,3.9,15.209999999999999
+Honda,Sedan,2016,68095,Electric,2.4,New York,26,Old,Low,45.923295522325816,8,2.4,5.76
+BMW,Coupe,2021,122886,Hybrid,5.6,Los Angeles,14,Well-Maintained,Low,60.14799164106181,3,5.6,31.359999999999996
+Hyundai,Coupe,2015,75910,Diesel,3.9,Chicago,7,Old,High,17.27567721965086,9,3.9,15.209999999999999
+Hyundai,Truck,2004,28567,Electric,4.0,Dallas,1,New,Medium,86.66142226524546,20,4.0,16.0
+Toyota,Coupe,2014,40292,Electric,2.8,New York,26,Well-Maintained,Medium,74.3246160015457,10,2.8,7.839999999999999
+Mercedes,Convertible,2002,79813,Petrol,1.3,New York,25,Well-Maintained,Medium,36.75588287448002,22,1.3,1.6900000000000002
+Hyundai,SUV,2006,102136,Petrol,1.2,Los Angeles,13,Old,Low,15.0,18,1.2,1.44
+Ford,SUV,2010,56631,Electric,3.1,Houston,20,Well-Maintained,Medium,72.60484847340715,14,3.1,9.610000000000001
+Honda,Hatchback,2009,14885,Electric,1.4,New York,3,Well-Maintained,Medium,62.12743198695463,15,1.4,1.9599999999999997
+Honda,Hatchback,2008,195731,Hybrid,4.0,New York,20,Well-Maintained,High,52.38997413278818,16,4.0,16.0
+Ford,SUV,2013,190378,Electric,5.4,Houston,4,New,Medium,65.62756009960968,11,5.4,29.160000000000004
+Tesla,Hatchback,2012,71314,Hybrid,5.4,Los Angeles,29,New,High,83.56883953748246,12,5.4,29.160000000000004
+Ford,Truck,2001,70087,Electric,4.3,Dallas,26,Old,Medium,50.08723685517192,23,4.3,18.49
+Ford,Coupe,2002,165237,Petrol,2.1,Dallas,11,New,Low,43.68711311485704,22,2.1,4.41
+Honda,SUV,2006,195001,Hybrid,5.3,New York,2,Old,Medium,19.94527066685181,18,5.3,28.09
+Chevrolet,Hatchback,2020,100998,Diesel,5.4,Houston,14,New,Medium,63.84108194799317,4,5.4,29.160000000000004
+Honda,SUV,2017,54812,Petrol,2.0,New York,12,Old,High,31.41361706687887,7,2.0,4.0
+Mercedes,Convertible,2002,186572,Hybrid,4.7,San Francisco,17,New,High,72.932419937679,22,4.7,22.090000000000003
+Toyota,Sedan,2009,63643,Hybrid,2.4,Chicago,12,New,High,75.17911158399495,15,2.4,5.76
+Kia,Coupe,2021,49900,Diesel,5.0,Dallas,26,Old,Medium,33.77428930601772,3,5.0,25.0
+Chevrolet,SUV,2006,179018,Hybrid,6.0,San Francisco,12,Well-Maintained,Medium,47.42904194518678,18,6.0,36.0
+BMW,Sedan,2008,143923,Electric,1.2,Phoenix,1,Well-Maintained,Low,42.69998202398466,16,1.2,1.44
+Kia,Hatchback,2016,21288,Diesel,5.5,Chicago,13,New,Medium,78.45232728925018,8,5.5,30.25
+Toyota,Sedan,2010,77692,Petrol,4.1,New York,14,Old,Low,29.460112750282367,14,4.1,16.81
+Mercedes,Coupe,2006,143440,Petrol,5.9,Los Angeles,24,Well-Maintained,High,33.664401804197844,18,5.9,34.81
+Mercedes,SUV,2023,90436,Electric,3.3,Dallas,2,Old,High,33.54437590296547,1,3.3,10.889999999999999
+BMW,Convertible,2013,51403,Petrol,5.2,Phoenix,12,Well-Maintained,High,39.55711423571891,11,5.2,27.040000000000003
+Chevrolet,Hatchback,2018,96170,Hybrid,1.3,Chicago,26,Old,Low,39.65315180020441,6,1.3,1.6900000000000002
+Tesla,SUV,2003,14168,Hybrid,2.7,Dallas,21,New,Medium,87.58880282177488,21,2.7,7.290000000000001
+Ford,Coupe,2005,54879,Electric,1.3,Houston,28,Old,High,56.755851578897015,19,1.3,1.6900000000000002
+Chevrolet,Hatchback,2009,64871,Petrol,5.9,Los Angeles,16,Well-Maintained,Medium,47.96063106309412,15,5.9,34.81
+Tesla,Truck,2006,37174,Petrol,5.1,Chicago,4,New,Medium,58.09903891691771,18,5.1,26.009999999999998
+Mercedes,Sedan,2012,142653,Electric,5.3,Houston,8,Old,High,35.44249233455207,12,5.3,28.09
+Honda,Coupe,2013,115155,Diesel,5.7,San Francisco,2,Well-Maintained,Low,29.631109835974826,11,5.7,32.49
+Toyota,Truck,2003,76853,Petrol,1.4,New York,10,New,Medium,62.296040227821166,21,1.4,1.9599999999999997
+BMW,SUV,2007,69046,Diesel,2.9,Houston,9,Old,High,21.260144699912665,17,2.9,8.41
+Toyota,Convertible,2004,54678,Petrol,1.4,Chicago,23,Well-Maintained,Medium,49.89598891008232,20,1.4,1.9599999999999997
+Nissan,Hatchback,2000,31649,Petrol,2.1,Chicago,15,Old,Medium,18.702321490701124,24,2.1,4.41
+Nissan,Sedan,2003,132795,Petrol,2.1,San Francisco,13,Old,Medium,15.0,21,2.1,4.41
+Chevrolet,Hatchback,2002,93668,Petrol,3.3,New York,23,New,Medium,64.75536569990602,22,3.3,10.889999999999999
+Mercedes,SUV,2008,150639,Hybrid,2.3,Houston,17,New,Medium,77.65756449761807,16,2.3,5.289999999999999
+Mercedes,Hatchback,2007,94906,Diesel,1.5,Houston,16,Well-Maintained,Low,36.96950120275707,17,1.5,2.25
+Ford,Sedan,2000,101019,Diesel,1.8,New York,28,New,Low,65.80225953585409,24,1.8,3.24
+Ford,SUV,2005,198016,Petrol,1.7,Houston,2,Well-Maintained,High,18.13964101694858,19,1.7,2.8899999999999997
+Ford,Hatchback,2008,83002,Petrol,5.9,Dallas,20,Old,Low,34.28596886413304,16,5.9,34.81
+Honda,Convertible,2006,33803,Diesel,4.8,New York,20,Old,Low,25.545876458637355,18,4.8,23.04
+Kia,Coupe,2003,154302,Hybrid,5.8,Los Angeles,27,Well-Maintained,Low,55.78752587026056,21,5.8,33.64
+Hyundai,SUV,2012,153934,Electric,3.2,Chicago,14,Old,Medium,36.438048076168165,12,3.2,10.240000000000002
+Kia,Coupe,2016,179427,Electric,2.4,Los Angeles,3,New,Medium,82.58651560680246,8,2.4,5.76
+Toyota,SUV,2001,167331,Diesel,5.0,Dallas,23,Old,High,15.0,23,5.0,25.0
+Kia,Convertible,2004,35795,Petrol,2.6,San Francisco,12,New,High,59.84471988504936,20,2.6,6.760000000000001
+Honda,Coupe,2011,13770,Petrol,2.5,Dallas,8,Well-Maintained,High,49.31753256306531,13,2.5,6.25
+Toyota,Truck,2020,16093,Hybrid,2.2,Phoenix,2,Well-Maintained,Medium,65.47620433387686,4,2.2,4.840000000000001
+Kia,Sedan,2007,182643,Electric,1.6,Phoenix,4,Old,Low,24.452650681205288,17,1.6,2.5600000000000005
+Honda,Truck,2005,136265,Hybrid,2.3,Phoenix,14,Old,Low,23.396170678859452,19,2.3,5.289999999999999
+Hyundai,Hatchback,2007,105311,Electric,2.8,New York,16,New,Medium,76.33000569304822,17,2.8,7.839999999999999
+Kia,Convertible,2017,22569,Diesel,4.4,Houston,19,New,High,78.1474947407246,7,4.4,19.360000000000003
+Honda,Truck,2002,16190,Electric,1.3,Dallas,2,Old,High,29.642755268830182,22,1.3,1.6900000000000002
+Ford,SUV,2021,67824,Hybrid,2.1,Los Angeles,12,Old,High,41.47977050307144,3,2.1,4.41
+Mercedes,Hatchback,2011,178824,Hybrid,5.0,San Francisco,29,Well-Maintained,Medium,60.09431960908392,13,5.0,25.0
+Ford,Hatchback,2002,168399,Hybrid,1.7,Los Angeles,14,Well-Maintained,High,43.69251890499976,22,1.7,2.8899999999999997
+Mercedes,Truck,2021,47070,Diesel,2.7,Los Angeles,6,Well-Maintained,High,57.65855069776372,3,2.7,7.290000000000001
+BMW,Truck,2005,45197,Electric,5.3,Los Angeles,13,Old,Medium,33.75674879850674,19,5.3,28.09
+BMW,Convertible,2001,7261,Electric,1.8,San Francisco,4,Old,Low,34.96316065540283,23,1.8,3.24
+BMW,Sedan,2022,162584,Hybrid,1.4,Phoenix,22,Old,Medium,27.166830988736056,2,1.4,1.9599999999999997
+Hyundai,Truck,2011,142788,Electric,3.4,Los Angeles,18,Well-Maintained,Medium,68.1884528337265,13,3.4,11.559999999999999
+Ford,Truck,2001,91795,Petrol,2.5,San Francisco,12,Old,Medium,15.0,23,2.5,6.25
+Mercedes,Coupe,2005,33933,Petrol,3.8,San Francisco,20,New,Medium,57.17539344135834,19,3.8,14.44
+Honda,SUV,2016,140450,Petrol,5.0,Houston,27,Old,Low,22.400403427872828,8,5.0,25.0
+Toyota,Coupe,2002,45583,Electric,1.7,San Francisco,22,Old,High,38.47595445905765,22,1.7,2.8899999999999997
+Honda,Coupe,2001,117082,Diesel,3.9,Phoenix,21,Old,Medium,15.0,23,3.9,15.209999999999999
+Toyota,Hatchback,2022,90371,Diesel,3.5,Los Angeles,19,Old,Low,29.66614625472452,2,3.5,12.25
+Nissan,Sedan,2019,165105,Diesel,1.7,San Francisco,8,Old,High,19.014605520235506,5,1.7,2.8899999999999997
+Honda,SUV,2007,160072,Diesel,4.1,New York,7,New,High,48.116655299445306,17,4.1,16.81
+Kia,Convertible,2021,116032,Petrol,2.4,San Francisco,16,New,High,65.02645349667338,3,2.4,5.76
+Kia,Convertible,2011,47604,Petrol,3.4,Chicago,19,Old,Medium,25.33202388464935,13,3.4,11.559999999999999
+Chevrolet,Truck,2003,100074,Hybrid,1.4,Chicago,6,Well-Maintained,Medium,39.93150886375171,21,1.4,1.9599999999999997
+Ford,Truck,2004,78869,Electric,3.3,Chicago,20,Old,High,32.877298785170495,20,3.3,10.889999999999999
+Toyota,Convertible,2012,10410,Electric,2.5,San Francisco,27,Old,High,54.6375710983182,12,2.5,6.25
+Toyota,Truck,2014,88375,Diesel,5.1,Phoenix,21,Old,High,27.08319889271607,10,5.1,26.009999999999998
+Ford,Sedan,2022,192116,Petrol,1.3,Los Angeles,11,Well-Maintained,High,33.09692739386875,2,1.3,1.6900000000000002
+Hyundai,Coupe,2015,199387,Diesel,3.1,Dallas,5,Well-Maintained,High,19.01336503569329,9,3.1,9.610000000000001
+Chevrolet,Truck,2009,101055,Hybrid,3.3,Dallas,16,Well-Maintained,High,56.39700046634086,15,3.3,10.889999999999999
+Hyundai,Hatchback,2022,142868,Electric,4.6,Dallas,7,New,Low,86.35652441452157,2,4.6,21.159999999999997
+Hyundai,Truck,2015,91716,Electric,3.9,Phoenix,27,Well-Maintained,High,69.25676743244426,9,3.9,15.209999999999999
+Hyundai,SUV,2011,59245,Diesel,4.3,Houston,5,New,Medium,57.18234711211959,13,4.3,18.49
+Ford,Sedan,2016,48056,Hybrid,4.9,New York,11,New,Medium,81.3875297987824,8,4.9,24.010000000000005
+Hyundai,SUV,2015,153781,Electric,5.3,New York,15,Well-Maintained,Medium,52.098100777184406,9,5.3,28.09
+Kia,SUV,2011,63557,Hybrid,2.6,Chicago,3,Well-Maintained,High,47.795504353519256,13,2.6,6.760000000000001
+BMW,Hatchback,2007,22543,Hybrid,3.7,Chicago,26,Well-Maintained,Medium,69.50707044047319,17,3.7,13.690000000000001
+Nissan,Sedan,2019,173490,Diesel,5.2,San Francisco,5,New,Low,57.601607645161664,5,5.2,27.040000000000003
+Toyota,Sedan,2002,101038,Petrol,5.9,Dallas,23,Old,High,19.6645082390279,22,5.9,34.81
+Toyota,Sedan,2015,152796,Diesel,5.4,San Francisco,21,Well-Maintained,Medium,30.851174761921165,9,5.4,29.160000000000004
+Nissan,Sedan,2012,8828,Petrol,2.9,Dallas,5,Well-Maintained,Low,47.38674463267875,12,2.9,8.41
+Ford,Sedan,2022,121656,Hybrid,2.0,Chicago,9,Well-Maintained,Low,66.66691085168725,2,2.0,4.0
+Honda,Hatchback,2018,22087,Petrol,3.4,Los Angeles,15,New,Medium,71.07050918275858,6,3.4,11.559999999999999
+Ford,Truck,2007,148677,Hybrid,4.7,Houston,3,New,Low,62.240771122982885,17,4.7,22.090000000000003
+Toyota,SUV,2021,36337,Electric,3.5,San Francisco,29,Old,Medium,55.006832349430304,3,3.5,12.25
+Toyota,Sedan,2004,141554,Electric,3.4,Houston,6,Well-Maintained,Low,51.246769989467055,20,3.4,11.559999999999999
+Nissan,Truck,2019,70333,Electric,5.2,Houston,17,New,High,85.61508267752694,5,5.2,27.040000000000003
+Hyundai,Truck,2007,187024,Diesel,2.8,Houston,26,Old,High,20.90750948834297,17,2.8,7.839999999999999
+Ford,SUV,2023,141535,Diesel,5.3,Chicago,21,Well-Maintained,High,42.562097267574224,1,5.3,28.09
+Mercedes,Hatchback,2011,75448,Hybrid,3.0,New York,8,New,High,76.66895734059482,13,3.0,9.0
+Nissan,Convertible,2000,9648,Electric,2.6,Chicago,21,Well-Maintained,High,67.30827876970218,24,2.6,6.760000000000001
+Kia,Convertible,2020,135576,Diesel,3.3,Houston,25,Well-Maintained,Medium,54.7155580965465,4,3.3,10.889999999999999
+Toyota,Truck,2019,38623,Electric,4.8,Chicago,11,New,High,91.18739693099025,5,4.8,23.04
+Nissan,Coupe,2005,195228,Diesel,1.6,Houston,6,New,High,50.915036595624606,19,1.6,2.5600000000000005
+Ford,Coupe,2021,40634,Petrol,2.0,Phoenix,8,New,High,68.98311750388584,3,2.0,4.0
+Toyota,SUV,2017,180674,Petrol,5.8,Dallas,10,Well-Maintained,High,32.57629849742859,7,5.8,33.64
+Honda,Convertible,2007,119598,Electric,1.9,New York,24,Well-Maintained,Low,61.34904615232387,17,1.9,3.61
+Nissan,Truck,2006,54334,Hybrid,3.8,Phoenix,29,Old,High,41.212953993114034,18,3.8,14.44
+Chevrolet,Hatchback,2000,73648,Diesel,3.9,Los Angeles,3,Well-Maintained,High,34.79834391851936,24,3.9,15.209999999999999
+Toyota,Convertible,2020,27054,Diesel,3.4,Chicago,23,New,Medium,73.33820829598257,4,3.4,11.559999999999999
+Ford,Truck,2015,75028,Petrol,4.2,Los Angeles,14,Well-Maintained,Low,45.56231520758925,9,4.2,17.64
+BMW,Truck,2011,27207,Petrol,2.1,San Francisco,23,Old,Medium,36.55600983231956,13,2.1,4.41
+Mercedes,Sedan,2005,86554,Hybrid,3.8,Chicago,14,Old,High,41.757744548884695,19,3.8,14.44
+Tesla,Hatchback,2019,157458,Hybrid,2.9,Dallas,10,New,Medium,72.56430041932495,5,2.9,8.41
+Hyundai,Sedan,2001,88276,Hybrid,4.3,Phoenix,12,New,Medium,74.97603528033017,23,4.3,18.49
+Tesla,SUV,2013,195590,Electric,1.7,Dallas,6,Old,High,31.64943875190407,11,1.7,2.8899999999999997
+Ford,Sedan,2003,57781,Petrol,3.9,San Francisco,12,Old,Low,17.80811454589512,21,3.9,15.209999999999999
+Kia,Sedan,2000,188852,Electric,1.9,Houston,23,Old,Low,41.149017272120886,24,1.9,3.61
+Kia,Convertible,2022,197512,Petrol,2.4,Dallas,14,New,Medium,53.368788985605285,2,2.4,5.76
+BMW,Coupe,2017,180271,Petrol,2.1,Dallas,2,Old,High,15.0,7,2.1,4.41
+Hyundai,Truck,2012,66035,Diesel,1.9,Houston,9,Old,Medium,29.170598766992136,12,1.9,3.61
+Chevrolet,Hatchback,2001,13210,Petrol,5.1,Chicago,10,New,Medium,69.32729121399412,23,5.1,26.009999999999998
+BMW,Sedan,2008,49363,Petrol,2.4,Houston,26,Well-Maintained,Medium,50.13160199017831,16,2.4,5.76
+Tesla,Hatchback,2020,83279,Electric,5.6,Phoenix,17,Well-Maintained,High,73.12208373920313,4,5.6,31.359999999999996
+BMW,Coupe,2001,196420,Petrol,5.8,Dallas,17,Old,High,15.0,23,5.8,33.64
+Tesla,Coupe,2008,191356,Electric,3.9,Houston,3,Well-Maintained,Low,41.91660554850471,16,3.9,15.209999999999999
+Toyota,Sedan,2000,158504,Hybrid,1.7,San Francisco,19,Well-Maintained,High,40.5860546344078,24,1.7,2.8899999999999997
+Kia,SUV,2010,191470,Petrol,2.9,San Francisco,1,Well-Maintained,Medium,27.969406827396405,14,2.9,8.41
+Toyota,Sedan,2002,139393,Petrol,5.0,Dallas,12,Well-Maintained,Medium,35.20610465634228,22,5.0,25.0
+Mercedes,Convertible,2019,86348,Electric,2.8,Phoenix,7,Old,Low,39.53055352222169,5,2.8,7.839999999999999
+Hyundai,Truck,2022,173455,Hybrid,1.4,Los Angeles,4,Well-Maintained,High,49.99050016992617,2,1.4,1.9599999999999997
+Chevrolet,SUV,2003,118816,Diesel,3.8,Phoenix,10,Well-Maintained,Medium,45.87494213935967,21,3.8,14.44
+Tesla,Sedan,2017,128053,Hybrid,5.2,New York,13,New,Low,80.92341150058682,7,5.2,27.040000000000003
+Chevrolet,Hatchback,2022,188965,Electric,5.0,New York,2,Old,Low,26.592580287105694,2,5.0,25.0
+Tesla,SUV,2005,171892,Hybrid,1.9,New York,10,New,Medium,68.31781139881694,19,1.9,3.61
+Ford,SUV,2002,71262,Electric,4.4,Dallas,21,New,Medium,77.8856910937466,22,4.4,19.360000000000003
+BMW,Sedan,2021,139832,Electric,2.1,San Francisco,22,Old,High,31.04390844072657,3,2.1,4.41
+Mercedes,SUV,2010,158262,Diesel,2.1,Chicago,25,Well-Maintained,Low,39.56793928366936,14,2.1,4.41
+Kia,Hatchback,2014,72411,Petrol,5.4,San Francisco,4,New,Medium,67.57600729796492,10,5.4,29.160000000000004
+Tesla,Coupe,2021,28377,Electric,2.2,Chicago,18,Old,Low,61.6472398021847,3,2.2,4.840000000000001
+Chevrolet,SUV,2004,182809,Electric,2.3,Chicago,5,Well-Maintained,High,46.10617584546327,20,2.3,5.289999999999999
+Mercedes,Coupe,2019,43211,Diesel,1.0,San Francisco,19,Old,Medium,29.971352933750527,5,1.0,1.0
+Honda,Hatchback,2009,8744,Electric,5.4,Dallas,2,New,High,85.06224841956323,15,5.4,29.160000000000004
+Honda,Sedan,2011,29995,Petrol,5.0,Phoenix,12,Well-Maintained,Low,45.15419914844545,13,5.0,25.0
+Toyota,Truck,2014,153049,Diesel,4.1,Chicago,17,Well-Maintained,High,35.63172154015345,10,4.1,16.81
+Kia,SUV,2016,39542,Petrol,4.8,Los Angeles,10,Old,High,32.36001101152786,8,4.8,23.04
+Ford,Truck,2009,15651,Petrol,1.8,San Francisco,2,Well-Maintained,Low,39.29982110144704,15,1.8,3.24
+Chevrolet,Hatchback,2005,104239,Diesel,3.3,San Francisco,6,New,High,58.71618278238038,19,3.3,10.889999999999999
+BMW,SUV,2017,83931,Electric,2.8,New York,8,New,Low,79.14907019018094,7,2.8,7.839999999999999
+BMW,Coupe,2012,107112,Petrol,1.5,Phoenix,29,New,Medium,78.08245977411444,12,1.5,2.25
+Chevrolet,Convertible,2002,21715,Petrol,3.4,New York,19,Old,Low,18.126827798574404,22,3.4,11.559999999999999
+Hyundai,Truck,2023,180481,Petrol,5.6,San Francisco,11,Well-Maintained,Low,32.16615334147716,1,5.6,31.359999999999996
+Ford,SUV,2009,160378,Petrol,1.2,San Francisco,25,Well-Maintained,Medium,38.18316132904839,15,1.2,1.44
+Mercedes,Truck,2013,155158,Diesel,2.5,Chicago,12,Well-Maintained,Low,25.059780484059687,11,2.5,6.25
+Tesla,SUV,2005,150448,Diesel,2.0,Phoenix,9,New,Medium,37.10506928622417,19,2.0,4.0
+Hyundai,Sedan,2002,66350,Hybrid,2.2,Houston,2,Well-Maintained,Medium,38.48296191544696,22,2.2,4.840000000000001
+Tesla,Coupe,2015,76425,Hybrid,5.5,Los Angeles,8,New,Low,75.39955394844496,9,5.5,30.25
+Tesla,Truck,2006,172708,Petrol,3.3,Chicago,26,Well-Maintained,High,35.39644995057944,18,3.3,10.889999999999999
+Hyundai,Convertible,2019,91120,Electric,3.3,San Francisco,11,New,High,85.55499740616433,5,3.3,10.889999999999999
+Toyota,Convertible,2013,119889,Petrol,4.8,Chicago,28,Well-Maintained,Medium,45.52499259111829,11,4.8,23.04
+Honda,Hatchback,2008,187721,Electric,1.8,Los Angeles,21,Old,High,35.22758232255425,16,1.8,3.24
+Tesla,SUV,2014,170682,Petrol,3.4,San Francisco,4,Old,High,15.0,10,3.4,11.559999999999999
+Hyundai,Truck,2020,146130,Hybrid,3.1,Los Angeles,10,New,Low,76.9640787873584,4,3.1,9.610000000000001
+Hyundai,Hatchback,2002,79637,Hybrid,4.0,Houston,21,New,Medium,79.51155001586761,22,4.0,16.0
+Nissan,Truck,2001,75194,Electric,6.0,Chicago,20,Well-Maintained,Medium,59.34653690071241,23,6.0,36.0
+Toyota,SUV,2001,81917,Petrol,4.8,Dallas,16,Well-Maintained,Low,40.975057173361954,23,4.8,23.04
+Kia,Convertible,2002,69200,Electric,3.0,Chicago,8,Old,High,35.126770320256654,22,3.0,9.0
+Nissan,Sedan,2017,110848,Hybrid,5.1,New York,4,Well-Maintained,Medium,44.80837042303448,7,5.1,26.009999999999998
+Nissan,Convertible,2013,111022,Petrol,1.9,Phoenix,29,New,High,72.42248320691311,11,1.9,3.61
+Chevrolet,Hatchback,2019,182691,Petrol,1.2,Phoenix,10,New,Medium,49.69591976700786,5,1.2,1.44
+Honda,Coupe,2017,153226,Electric,2.0,New York,12,New,Medium,81.64911977570884,7,2.0,4.0
+Hyundai,Sedan,2009,155611,Diesel,2.7,San Francisco,29,New,Medium,63.06013386058512,15,2.7,7.290000000000001
+Honda,Hatchback,2001,65058,Electric,3.6,Phoenix,14,New,Medium,78.56738845491438,23,3.6,12.96
+Ford,SUV,2021,67068,Hybrid,4.1,Los Angeles,16,Old,High,35.40503302274457,3,4.1,16.81
+Chevrolet,Sedan,2000,104932,Hybrid,5.6,Phoenix,22,Old,High,41.20872778707222,24,5.6,31.359999999999996
+Kia,Hatchback,2003,166445,Hybrid,3.5,Phoenix,18,New,High,65.04443069322956,21,3.5,12.25
+Honda,SUV,2013,169226,Hybrid,3.5,New York,21,Well-Maintained,High,56.25281793577791,11,3.5,12.25
+BMW,Convertible,2000,142103,Hybrid,1.3,San Francisco,22,New,Low,69.22012938314609,24,1.3,1.6900000000000002
+Tesla,Coupe,2013,27785,Diesel,1.2,Houston,21,Old,Medium,30.86282332218806,11,1.2,1.44
+Ford,SUV,2015,164741,Petrol,3.8,Phoenix,12,New,Medium,55.99403919198495,9,3.8,14.44
+Toyota,Truck,2021,99475,Electric,3.2,Dallas,18,Old,Medium,47.68286141720923,3,3.2,10.240000000000002
+Kia,SUV,2013,7282,Electric,5.2,Phoenix,7,Old,Low,45.93503604912107,11,5.2,27.040000000000003
+Ford,SUV,2019,170696,Hybrid,1.8,Houston,20,New,High,75.15342720693924,5,1.8,3.24
+Tesla,Coupe,2002,184510,Electric,1.1,New York,24,New,Medium,74.68532328135855,22,1.1,1.2100000000000002
+Chevrolet,Truck,2002,72534,Hybrid,3.2,Houston,23,Well-Maintained,High,60.73909588379147,22,3.2,10.240000000000002
+Tesla,Hatchback,2008,167777,Diesel,2.2,New York,7,Old,High,15.0,16,2.2,4.840000000000001
+Nissan,Hatchback,2005,174316,Diesel,1.2,Los Angeles,9,Well-Maintained,Low,30.674684949072194,19,1.2,1.44
+Tesla,SUV,2012,79964,Petrol,4.6,New York,1,New,Low,54.37965097778456,12,4.6,21.159999999999997
+Nissan,Truck,2020,173509,Diesel,1.6,Los Angeles,26,Old,High,34.77443190498228,4,1.6,2.5600000000000005
+Chevrolet,Truck,2001,124006,Diesel,4.0,Los Angeles,6,Well-Maintained,Medium,36.527943040038906,23,4.0,16.0
+Mercedes,Coupe,2007,55583,Petrol,2.4,New York,6,Well-Maintained,Medium,42.75221497415805,17,2.4,5.76
+Nissan,Convertible,2020,43392,Electric,1.9,Dallas,22,Well-Maintained,Low,64.95209753081474,4,1.9,3.61
+Toyota,Hatchback,2001,12461,Hybrid,2.9,Chicago,29,New,Low,89.7800956942749,23,2.9,8.41
+Tesla,Coupe,2003,105123,Hybrid,5.0,New York,12,New,Low,68.30681458568974,21,5.0,25.0
+Tesla,Sedan,2014,15516,Electric,3.0,Phoenix,22,New,Low,89.55659634295324,10,3.0,9.0
+Toyota,Hatchback,2003,153586,Petrol,4.8,Dallas,12,Old,Low,15.0,21,4.8,23.04
+BMW,Coupe,2012,126251,Electric,1.6,Dallas,10,New,Low,72.03082633035291,12,1.6,2.5600000000000005
+Hyundai,Hatchback,2011,172340,Diesel,4.9,Phoenix,23,Old,Low,20.30401546879753,13,4.9,24.010000000000005
+Mercedes,Convertible,2012,172860,Petrol,2.2,Chicago,26,Well-Maintained,Medium,47.78997031281614,12,2.2,4.840000000000001
+Kia,Sedan,2013,197121,Petrol,4.4,Dallas,6,Well-Maintained,Low,31.92014395853391,11,4.4,19.360000000000003
+Nissan,Convertible,2019,67493,Petrol,3.8,Los Angeles,17,New,Low,83.06262620394793,5,3.8,14.44
+Toyota,Sedan,2017,41027,Hybrid,5.6,Chicago,19,Well-Maintained,Medium,59.13193785212298,7,5.6,31.359999999999996
+Chevrolet,SUV,2005,98547,Electric,2.9,San Francisco,18,New,Medium,77.11982647765447,19,2.9,8.41
+Nissan,Coupe,2010,178921,Petrol,1.3,Phoenix,6,Old,High,15.0,14,1.3,1.6900000000000002
+Hyundai,Sedan,2001,105127,Petrol,1.1,Chicago,24,Well-Maintained,Low,46.136841571799295,23,1.1,1.2100000000000002
+Chevrolet,Convertible,2022,153930,Petrol,5.1,New York,19,New,Low,62.00724821510731,2,5.1,26.009999999999998
+Ford,Hatchback,2018,84003,Electric,3.6,Chicago,10,Well-Maintained,Low,64.54758098238626,6,3.6,12.96
+Tesla,Sedan,2018,188467,Hybrid,4.9,Los Angeles,24,Well-Maintained,Low,58.31842765986529,6,4.9,24.010000000000005
+Ford,Coupe,2004,44758,Diesel,2.2,New York,8,New,High,52.24605574731629,20,2.2,4.840000000000001
+Nissan,Sedan,2018,59312,Hybrid,2.7,Houston,21,Well-Maintained,Medium,63.46325518397501,6,2.7,7.290000000000001
+Hyundai,Truck,2001,73670,Petrol,1.2,Phoenix,24,Well-Maintained,Medium,48.11632976848957,23,1.2,1.44
+Mercedes,Hatchback,2009,87279,Hybrid,5.8,Phoenix,6,Well-Maintained,Low,49.0295604974604,15,5.8,33.64
+Nissan,Coupe,2001,20434,Hybrid,4.3,Chicago,21,Well-Maintained,Low,53.39178515465654,23,4.3,18.49
+Toyota,Coupe,2010,183847,Diesel,5.7,Dallas,25,Old,Low,15.0,14,5.7,32.49
+Honda,SUV,2017,80769,Electric,2.3,New York,7,Well-Maintained,High,60.48865973197368,7,2.3,5.289999999999999
+Nissan,Convertible,2023,71677,Electric,4.1,Houston,24,Well-Maintained,High,75.16380259944714,1,4.1,16.81
+Tesla,SUV,2014,88555,Hybrid,4.4,New York,1,New,Medium,71.2859334502474,10,4.4,19.360000000000003
+Tesla,Coupe,2008,133379,Hybrid,2.6,Phoenix,27,Old,Low,34.08891079028513,16,2.6,6.760000000000001
+Nissan,Hatchback,2022,181806,Electric,5.2,New York,18,New,Low,84.51656719424234,2,5.2,27.040000000000003
+Chevrolet,Sedan,2018,106665,Electric,5.7,Houston,24,New,Low,87.68469531719046,6,5.7,32.49
+Honda,Sedan,2008,176675,Diesel,5.4,Dallas,28,New,Low,59.377006809989616,16,5.4,29.160000000000004
+Toyota,Hatchback,2002,73803,Petrol,4.7,Chicago,25,Old,High,21.31522011305784,22,4.7,22.090000000000003
+Nissan,Coupe,2020,175404,Hybrid,2.4,Los Angeles,20,New,Medium,83.00470132120107,4,2.4,5.76
+Chevrolet,Sedan,2008,96703,Electric,2.4,New York,12,New,Medium,76.3718444739657,16,2.4,5.76
+Tesla,Sedan,2013,26312,Hybrid,5.8,Los Angeles,16,New,High,85.24346433296631,11,5.8,33.64
+Tesla,Sedan,2018,180251,Hybrid,1.1,Phoenix,10,Well-Maintained,Low,54.1449972106344,6,1.1,1.2100000000000002
+Hyundai,Convertible,2006,122961,Electric,4.6,Chicago,27,New,Medium,83.6002113052998,18,4.6,21.159999999999997
+Nissan,Convertible,2015,45379,Diesel,4.5,San Francisco,10,Old,Medium,27.235448482187408,9,4.5,20.25
+Honda,Truck,2015,22297,Hybrid,4.1,Chicago,14,Old,High,35.40172245301694,9,4.1,16.81
+BMW,SUV,2000,7011,Diesel,6.0,New York,25,Well-Maintained,Low,53.20317500846942,24,6.0,36.0
+Honda,Hatchback,2003,125234,Electric,2.6,Dallas,20,Old,Medium,37.257934701067455,21,2.6,6.760000000000001
+Tesla,Hatchback,2003,49014,Petrol,2.7,Chicago,10,Old,Low,22.307825515862756,21,2.7,7.290000000000001
+Tesla,Hatchback,2006,147810,Petrol,1.4,New York,10,Well-Maintained,Medium,32.13606524184418,18,1.4,1.9599999999999997
+Ford,Truck,2007,99333,Hybrid,3.2,New York,26,New,High,76.77421221438563,17,3.2,10.240000000000002
+Tesla,Convertible,2016,183570,Electric,2.3,Los Angeles,25,Well-Maintained,Low,64.61153583274798,8,2.3,5.289999999999999
+Toyota,Coupe,2004,16120,Diesel,2.7,Chicago,11,New,High,64.88063305639957,20,2.7,7.290000000000001
+Kia,Coupe,2006,144839,Hybrid,5.2,New York,23,New,Medium,66.57306754478545,18,5.2,27.040000000000003
+Nissan,Truck,2019,27852,Electric,5.7,Los Angeles,2,Old,High,52.252585781730815,5,5.7,32.49
+Honda,Coupe,2019,84239,Electric,1.9,Houston,25,Well-Maintained,High,64.42760217806264,5,1.9,3.61
+Kia,Hatchback,2003,137001,Diesel,2.9,San Francisco,20,Old,High,20.304646171252717,21,2.9,8.41
+Chevrolet,SUV,2005,96575,Hybrid,5.6,Los Angeles,8,Old,Medium,37.27465885965103,19,5.6,31.359999999999996
+BMW,Sedan,2006,100040,Electric,1.3,Los Angeles,23,New,Low,76.96852282018368,18,1.3,1.6900000000000002
+Toyota,Convertible,2017,153510,Electric,1.5,New York,29,Old,High,45.03619106631056,7,1.5,2.25
+Honda,Convertible,2004,184587,Electric,1.8,Phoenix,7,Well-Maintained,Low,43.96025876932912,20,1.8,3.24
+Kia,Truck,2019,10744,Diesel,4.0,Phoenix,8,Old,Medium,29.57514422409556,5,4.0,16.0
+BMW,Convertible,2002,178489,Hybrid,1.8,Dallas,1,Old,Low,25.80119177616532,22,1.8,3.24
+Ford,Hatchback,2006,143141,Hybrid,5.8,Phoenix,21,New,High,66.7164056354144,18,5.8,33.64
+Toyota,Coupe,2021,47359,Hybrid,3.2,Los Angeles,2,Well-Maintained,High,58.22716477560501,3,3.2,10.240000000000002
+Toyota,Hatchback,2013,155871,Hybrid,3.5,Dallas,18,Old,High,40.42661249410875,11,3.5,12.25
+Ford,Truck,2006,103746,Petrol,2.2,New York,15,New,High,56.515255858304265,18,2.2,4.840000000000001
+Nissan,Hatchback,2004,125906,Petrol,3.4,Chicago,1,Old,High,15.0,20,3.4,11.559999999999999
+Ford,Coupe,2021,12597,Hybrid,4.3,San Francisco,5,Well-Maintained,High,66.05507340884876,3,4.3,18.49
+Toyota,SUV,2004,52093,Diesel,4.8,San Francisco,2,Old,Medium,19.818202708535075,20,4.8,23.04
+Toyota,Truck,2022,173298,Petrol,4.8,Los Angeles,20,Old,Medium,19.70579514925852,2,4.8,23.04
+Kia,SUV,2001,119650,Electric,3.9,Los Angeles,3,New,Medium,70.81184195403772,23,3.9,15.209999999999999
+Tesla,Sedan,2020,162489,Petrol,5.5,Dallas,19,Old,Low,15.0,4,5.5,30.25
+BMW,SUV,2021,154765,Electric,5.1,New York,18,New,Low,75.41486458290703,3,5.1,26.009999999999998
+Ford,Sedan,2005,125956,Hybrid,4.8,Houston,29,Well-Maintained,Medium,55.19956859873686,19,4.8,23.04
+BMW,Sedan,2014,120598,Petrol,1.3,Los Angeles,22,Old,Low,26.89008709995864,10,1.3,1.6900000000000002
+Ford,SUV,2020,189233,Diesel,1.0,Houston,18,Well-Maintained,Low,41.88748990492543,4,1.0,1.0
+Chevrolet,Truck,2009,138241,Petrol,2.1,Houston,14,Well-Maintained,High,29.769919762709684,15,2.1,4.41
+Toyota,Coupe,2022,158124,Petrol,4.3,Phoenix,24,Old,High,28.81210352366289,2,4.3,18.49
+Tesla,Hatchback,2023,13036,Petrol,3.1,New York,8,New,Low,73.0325352021739,1,3.1,9.610000000000001
+Kia,Hatchback,2006,36778,Hybrid,3.0,San Francisco,29,Well-Maintained,Low,62.423976527743406,18,3.0,9.0
+Tesla,Coupe,2004,163806,Diesel,5.4,San Francisco,12,Well-Maintained,Medium,22.94905823988501,20,5.4,29.160000000000004
+Tesla,Sedan,2000,159245,Petrol,5.5,Houston,21,Old,Low,15.0,24,5.5,30.25
+Tesla,Sedan,2012,166475,Diesel,5.5,San Francisco,10,Old,High,18.797816120827232,12,5.5,30.25
+BMW,Truck,2020,142416,Hybrid,2.6,New York,23,Old,Low,40.43761215388978,4,2.6,6.760000000000001
+Ford,Convertible,2017,23800,Electric,4.5,Phoenix,20,Old,Medium,49.445395752968814,7,4.5,20.25
+Mercedes,SUV,2012,30372,Petrol,2.4,New York,17,Old,High,20.119888564602867,12,2.4,5.76
+Chevrolet,Sedan,2020,66516,Diesel,2.0,Los Angeles,11,Old,High,34.49745423444305,4,2.0,4.0
+Honda,Hatchback,2020,25538,Diesel,1.9,Houston,2,New,High,71.65925305159881,4,1.9,3.61
+Tesla,Truck,2017,68918,Hybrid,2.7,New York,26,Well-Maintained,High,69.12038424385801,7,2.7,7.290000000000001
+Nissan,SUV,2004,151045,Petrol,3.1,San Francisco,26,New,Low,65.2899698363273,20,3.1,9.610000000000001
+BMW,Truck,2012,76155,Electric,5.2,Chicago,4,New,Medium,79.49959549876797,12,5.2,27.040000000000003
+Kia,SUV,2003,64500,Diesel,1.6,New York,1,Old,Low,15.0,21,1.6,2.5600000000000005
+Honda,SUV,2016,172647,Petrol,4.7,Houston,15,Well-Maintained,Low,39.01566122525104,8,4.7,22.090000000000003
+Mercedes,Coupe,2002,178333,Electric,3.7,Phoenix,13,New,High,63.52137161866104,22,3.7,13.690000000000001
+Nissan,Sedan,2016,115659,Diesel,2.4,San Francisco,8,Old,Medium,15.0,8,2.4,5.76
+Mercedes,Truck,2010,32716,Diesel,3.5,Phoenix,25,Old,High,36.088035548036345,14,3.5,12.25
+Honda,Truck,2020,139308,Electric,2.5,Houston,4,Well-Maintained,Low,60.34879383782041,4,2.5,6.25
+Tesla,Coupe,2019,151920,Electric,4.0,San Francisco,10,New,Low,70.94130859756295,5,4.0,16.0
+Nissan,Hatchback,2022,7352,Hybrid,3.2,Los Angeles,19,New,High,86.57601158779073,2,3.2,10.240000000000002
+Mercedes,Hatchback,2020,138004,Petrol,1.8,San Francisco,18,New,Low,60.97475153183495,4,1.8,3.24
+Kia,Sedan,2003,81449,Petrol,1.6,Los Angeles,5,Old,Low,15.0,21,1.6,2.5600000000000005
+Ford,Sedan,2001,13556,Hybrid,3.7,Phoenix,19,Well-Maintained,High,64.02244381582685,23,3.7,13.690000000000001
+Toyota,Convertible,2019,91836,Diesel,5.5,Phoenix,26,Well-Maintained,Low,51.560249188827946,5,5.5,30.25
+Ford,Coupe,2015,141570,Electric,2.7,Houston,23,New,Medium,88.66453128818303,9,2.7,7.290000000000001
+Honda,Hatchback,2017,55098,Electric,4.7,Los Angeles,27,Old,High,56.07628862616992,7,4.7,22.090000000000003
+BMW,SUV,2007,117169,Electric,4.3,Phoenix,22,New,Medium,77.55711585164161,17,4.3,18.49
+Toyota,Truck,2002,145641,Diesel,5.7,Los Angeles,16,Well-Maintained,Low,22.984355690567767,22,5.7,32.49
+Chevrolet,Sedan,2008,131060,Electric,5.1,Phoenix,1,Old,Low,30.287279921385885,16,5.1,26.009999999999998
+Kia,Truck,2019,192954,Electric,3.8,San Francisco,12,New,High,65.64835944881861,5,3.8,14.44
+Chevrolet,Truck,2005,135544,Hybrid,4.3,New York,24,New,Low,70.66522381539582,19,4.3,18.49
+Nissan,Convertible,2009,5340,Diesel,5.5,Chicago,2,Old,High,19.36136610951662,15,5.5,30.25
+Toyota,Hatchback,2020,180021,Petrol,3.0,San Francisco,21,Well-Maintained,High,37.95786442558284,4,3.0,9.0
+Chevrolet,Sedan,2009,87302,Hybrid,2.6,Dallas,25,Old,High,34.68982870036571,15,2.6,6.760000000000001
+Chevrolet,Truck,2012,198515,Hybrid,1.1,New York,8,New,High,59.52361695945025,12,1.1,1.2100000000000002
+Mercedes,Sedan,2016,5138,Petrol,5.1,Dallas,18,New,High,80.219522892259,8,5.1,26.009999999999998
+Ford,SUV,2008,136430,Hybrid,5.0,Phoenix,25,New,Medium,81.57574243787467,16,5.0,25.0
+Mercedes,Convertible,2016,124619,Diesel,1.5,Chicago,16,New,High,69.20249887732986,8,1.5,2.25
+Toyota,SUV,2023,90376,Electric,3.9,Chicago,5,Well-Maintained,Medium,63.01073262871887,1,3.9,15.209999999999999
+Toyota,Sedan,2008,104931,Diesel,3.3,Phoenix,26,Well-Maintained,Low,45.86609564449123,16,3.3,10.889999999999999
+Honda,Sedan,2008,166726,Petrol,1.6,Phoenix,22,New,High,62.13305708846829,16,1.6,2.5600000000000005
+Mercedes,Hatchback,2000,161951,Petrol,5.9,Los Angeles,13,Well-Maintained,Low,20.946695215314413,24,5.9,34.81
+Hyundai,Truck,2001,86532,Hybrid,2.1,Phoenix,19,Well-Maintained,High,58.378142533518506,23,2.1,4.41
+Ford,Truck,2015,60778,Diesel,1.3,Houston,29,Well-Maintained,Medium,60.43172361697828,9,1.3,1.6900000000000002
+Toyota,SUV,2000,42772,Diesel,4.0,Phoenix,3,New,Medium,50.77519836981188,24,4.0,16.0
+Honda,Convertible,2009,63478,Petrol,4.7,Houston,26,Old,Medium,36.0631957280183,15,4.7,22.090000000000003
+Mercedes,Coupe,2017,31762,Diesel,1.2,Phoenix,8,Old,Low,37.60858040150792,7,1.2,1.44
+Ford,Truck,2007,149355,Petrol,4.3,Los Angeles,27,Old,High,23.949233352554145,17,4.3,18.49
+Mercedes,Hatchback,2020,199994,Diesel,3.7,Houston,26,New,Low,63.97252184330062,4,3.7,13.690000000000001
+Chevrolet,SUV,2010,175492,Diesel,1.5,New York,26,Well-Maintained,Medium,32.85111975435371,14,1.5,2.25
+Honda,SUV,2022,60568,Diesel,1.9,Houston,12,Well-Maintained,Low,54.28601964520462,2,1.9,3.61
+Ford,Coupe,2001,90090,Petrol,3.8,San Francisco,2,New,Medium,45.36204673681444,23,3.8,14.44
+Tesla,Hatchback,2007,25219,Hybrid,2.5,Los Angeles,11,New,Medium,81.32870401320181,17,2.5,6.25
+Nissan,Convertible,2021,62169,Diesel,5.7,Dallas,12,Old,Medium,30.635475536655125,3,5.7,32.49
+Nissan,Hatchback,2007,79965,Petrol,5.1,Houston,28,Old,High,15.0,17,5.1,26.009999999999998
+Ford,Convertible,2016,182912,Petrol,5.9,San Francisco,18,New,High,58.739016917678754,8,5.9,34.81
+Mercedes,Hatchback,2014,180767,Diesel,2.3,San Francisco,13,Old,Medium,26.527373932392443,10,2.3,5.289999999999999
+Honda,Hatchback,2016,89754,Diesel,5.8,San Francisco,5,Well-Maintained,Low,29.06071788864764,8,5.8,33.64
+Nissan,Sedan,2022,82988,Hybrid,3.2,Phoenix,22,New,Low,86.43054002993433,2,3.2,10.240000000000002
+Honda,SUV,2023,194414,Petrol,2.7,San Francisco,12,New,High,46.324423116326905,1,2.7,7.290000000000001
+Nissan,Hatchback,2012,155023,Petrol,1.3,Phoenix,2,Well-Maintained,Medium,25.02929280597412,12,1.3,1.6900000000000002
+Chevrolet,Coupe,2018,137379,Electric,1.3,Dallas,5,Well-Maintained,Low,46.11111572589848,6,1.3,1.6900000000000002
+Mercedes,Hatchback,2004,85388,Petrol,4.5,Los Angeles,7,Well-Maintained,Medium,35.75771163498609,20,4.5,20.25
+Chevrolet,Truck,2011,95768,Hybrid,3.3,Chicago,26,Old,Low,45.888024016297976,13,3.3,10.889999999999999
+Nissan,SUV,2000,40428,Electric,2.1,Phoenix,26,New,High,89.00869316384545,24,2.1,4.41
+Tesla,Truck,2022,97021,Electric,4.1,San Francisco,24,Old,Medium,46.64908765271214,2,4.1,16.81
+Tesla,SUV,2004,123418,Electric,2.3,San Francisco,12,Well-Maintained,Medium,50.61302621702036,20,2.3,5.289999999999999
+Chevrolet,Truck,2007,175047,Diesel,3.9,New York,16,Old,Low,15.0,17,3.9,15.209999999999999
+Tesla,Hatchback,2012,137212,Diesel,2.8,San Francisco,23,Well-Maintained,Low,37.2853800493054,12,2.8,7.839999999999999
+Nissan,Hatchback,2007,160914,Petrol,5.1,Los Angeles,8,Old,Low,15.0,17,5.1,26.009999999999998
+Ford,Sedan,2022,31421,Electric,5.1,Houston,28,Old,Medium,58.66436469949019,2,5.1,26.009999999999998
+Chevrolet,Coupe,2010,6708,Hybrid,3.4,Houston,9,Well-Maintained,High,57.10645895363796,14,3.4,11.559999999999999
+BMW,Truck,2000,139702,Diesel,2.8,San Francisco,15,Old,High,15.0,24,2.8,7.839999999999999
+Mercedes,Convertible,2012,155667,Hybrid,2.8,New York,5,New,Low,72.42348700158459,12,2.8,7.839999999999999
+Tesla,Sedan,2018,81021,Hybrid,5.0,Phoenix,13,Old,High,53.38791701352881,6,5.0,25.0
+Tesla,Truck,2023,164380,Diesel,2.6,Los Angeles,5,Old,Low,17.25033456069825,1,2.6,6.760000000000001
+Toyota,Truck,2002,49789,Diesel,2.0,New York,11,New,High,62.74986081409768,22,2.0,4.0
+Hyundai,Sedan,2023,191762,Diesel,1.4,Phoenix,10,Well-Maintained,Medium,32.32341328352936,1,1.4,1.9599999999999997
+Chevrolet,Hatchback,2016,31086,Diesel,3.3,Los Angeles,20,New,Low,70.20311612889228,8,3.3,10.889999999999999
+Kia,Truck,2004,21859,Electric,3.4,San Francisco,13,Old,High,50.7302812327047,20,3.4,11.559999999999999
+Tesla,Hatchback,2019,12684,Electric,5.2,Houston,9,Well-Maintained,Medium,69.34836099926612,5,5.2,27.040000000000003
+Mercedes,Sedan,2020,96088,Electric,2.1,Los Angeles,21,Old,High,49.25473689302891,4,2.1,4.41
+BMW,Hatchback,2007,137279,Electric,2.9,San Francisco,14,Old,Medium,40.88487835064167,17,2.9,8.41
+Tesla,SUV,2013,51099,Petrol,5.0,Dallas,18,New,Medium,67.04686414056705,11,5.0,25.0
+BMW,Convertible,2003,71093,Electric,5.1,Chicago,15,New,High,87.39210218844075,21,5.1,26.009999999999998
+Nissan,Truck,2010,165761,Diesel,2.9,Los Angeles,10,Well-Maintained,High,34.28514668025703,14,2.9,8.41
+Nissan,Coupe,2019,53651,Hybrid,3.3,Chicago,24,Well-Maintained,Medium,71.40699085489106,5,3.3,10.889999999999999
+Hyundai,Convertible,2014,18893,Electric,2.5,Los Angeles,7,Well-Maintained,Medium,63.36905426466328,10,2.5,6.25
+Ford,Hatchback,2018,71418,Petrol,5.7,Chicago,8,Old,Medium,26.405629975250527,6,5.7,32.49
+Kia,Truck,2006,130074,Diesel,1.6,Dallas,28,New,Low,59.84477026066877,18,1.6,2.5600000000000005
+Toyota,Hatchback,2018,108065,Hybrid,5.7,Houston,3,New,Medium,75.03704428097852,6,5.7,32.49
+Hyundai,SUV,2018,135351,Hybrid,4.4,Phoenix,15,New,Low,75.45087467119787,6,4.4,19.360000000000003
+Honda,Sedan,2010,196083,Electric,3.7,Chicago,16,Well-Maintained,Medium,56.2240478549206,14,3.7,13.690000000000001
+Toyota,Truck,2004,43635,Hybrid,1.2,Dallas,4,New,Low,72.48114413601623,20,1.2,1.44
+Chevrolet,SUV,2004,192187,Electric,3.4,Chicago,21,New,Medium,81.46928775118349,20,3.4,11.559999999999999
+Mercedes,SUV,2021,100071,Electric,3.0,Houston,6,New,Medium,80.11226510802136,3,3.0,9.0
+Honda,Truck,2007,83518,Diesel,1.8,Chicago,1,Well-Maintained,Medium,30.977126189882448,17,1.8,3.24
+Honda,Hatchback,2009,111233,Diesel,4.3,Dallas,4,New,High,55.110568934006274,15,4.3,18.49
+Hyundai,Coupe,2005,108651,Petrol,5.9,San Francisco,11,Well-Maintained,High,40.51935527913737,19,5.9,34.81
+Ford,SUV,2014,77805,Diesel,3.8,Dallas,12,New,Medium,68.57049242413638,10,3.8,14.44
+Hyundai,Convertible,2015,195026,Diesel,4.6,New York,26,New,Low,59.833907222012485,9,4.6,21.159999999999997
+Chevrolet,SUV,2016,164136,Electric,1.3,Houston,29,New,Low,85.78544580402392,8,1.3,1.6900000000000002
+Tesla,Coupe,2007,127813,Diesel,3.1,San Francisco,5,Well-Maintained,Medium,32.922690286862114,17,3.1,9.610000000000001
+Tesla,Hatchback,2007,84063,Electric,1.6,New York,23,Well-Maintained,High,59.20063593185938,17,1.6,2.5600000000000005
+Ford,Hatchback,2008,7454,Electric,4.1,Houston,29,New,Low,100.87036720883049,16,4.1,16.81
+Chevrolet,Convertible,2001,25878,Diesel,5.7,San Francisco,21,Old,High,20.12071783939666,23,5.7,32.49
+Ford,SUV,2014,187170,Petrol,4.3,Chicago,16,Well-Maintained,Low,28.90000662107604,10,4.3,18.49
+BMW,Hatchback,2017,198226,Petrol,1.4,San Francisco,13,Well-Maintained,Medium,33.45513542260733,7,1.4,1.9599999999999997
+Tesla,Coupe,2002,149063,Hybrid,2.8,Dallas,13,New,High,63.9907013292723,22,2.8,7.839999999999999
+Honda,Truck,2016,73344,Hybrid,3.8,New York,17,Old,Low,46.15078699687725,8,3.8,14.44
+Kia,Sedan,2003,109946,Diesel,3.0,Chicago,27,New,Medium,64.24676336335091,21,3.0,9.0
+Mercedes,Sedan,2003,41593,Petrol,5.2,Dallas,7,Well-Maintained,Medium,39.53100693535347,21,5.2,27.040000000000003
+Chevrolet,Sedan,2013,41304,Electric,5.1,Houston,8,Well-Maintained,Medium,58.74233002013976,11,5.1,26.009999999999998
+Toyota,SUV,2008,166458,Hybrid,4.1,San Francisco,13,New,High,66.982800524317,16,4.1,16.81
+Ford,Convertible,2008,191292,Electric,2.9,Dallas,23,New,High,74.10744265439293,16,2.9,8.41
+Mercedes,Hatchback,2022,118613,Hybrid,2.3,Chicago,27,Old,Medium,46.75093368451085,2,2.3,5.289999999999999
+Toyota,Truck,2017,157155,Diesel,1.5,New York,16,Old,High,16.62980997286181,7,1.5,2.25
+Mercedes,Coupe,2009,23354,Petrol,2.8,New York,29,Well-Maintained,Low,57.27408768996772,15,2.8,7.839999999999999
+Kia,Truck,2020,27190,Hybrid,3.1,San Francisco,4,Old,Medium,40.54719481146567,4,3.1,9.610000000000001
+Toyota,Coupe,2003,11142,Petrol,4.4,Dallas,8,Old,Medium,24.53556732564556,21,4.4,19.360000000000003
+Hyundai,SUV,2011,164470,Electric,4.3,Chicago,16,Well-Maintained,High,59.03023787042875,13,4.3,18.49
+Nissan,Sedan,2007,188043,Diesel,1.4,Los Angeles,21,Well-Maintained,Medium,30.52702250673813,17,1.4,1.9599999999999997
+Hyundai,SUV,2001,46862,Petrol,3.0,Houston,10,Well-Maintained,Low,34.94920764909258,23,3.0,9.0
+Tesla,Convertible,2021,189482,Diesel,1.9,Houston,25,Well-Maintained,High,44.43183078234669,3,1.9,3.61
+Nissan,Convertible,2012,155575,Petrol,1.8,Chicago,12,New,High,47.83450159642785,12,1.8,3.24
+Hyundai,Coupe,2020,130438,Electric,5.1,Los Angeles,12,Well-Maintained,Medium,66.51832377446031,4,5.1,26.009999999999998
+Nissan,Hatchback,2015,53456,Electric,1.2,New York,26,Well-Maintained,Medium,73.20481308558487,9,1.2,1.44
+Nissan,Hatchback,2001,105167,Diesel,3.1,San Francisco,5,Well-Maintained,Medium,29.90620799050817,23,3.1,9.610000000000001
+Honda,Coupe,2010,87035,Electric,1.8,Phoenix,16,Old,High,45.03007959175613,14,1.8,3.24
+Ford,Convertible,2009,13016,Hybrid,5.4,Phoenix,1,Well-Maintained,Medium,59.11977260211049,15,5.4,29.160000000000004
+Ford,Convertible,2014,7384,Petrol,3.8,San Francisco,28,New,Low,78.29259037489454,10,3.8,14.44
+Honda,Convertible,2016,198392,Electric,2.2,Chicago,9,New,Medium,75.05308205300956,8,2.2,4.840000000000001
+Mercedes,SUV,2007,151144,Hybrid,3.5,Los Angeles,12,Well-Maintained,Medium,44.02805847324874,17,3.5,12.25
+BMW,Convertible,2017,107239,Diesel,4.7,Los Angeles,5,New,High,61.841782466468125,7,4.7,22.090000000000003
+Mercedes,Truck,2022,116431,Hybrid,5.8,Houston,22,Old,Medium,37.96688264165462,2,5.8,33.64
+Toyota,Sedan,2008,85018,Diesel,2.1,New York,20,Well-Maintained,High,46.05324495532567,16,2.1,4.41
+Toyota,Convertible,2007,45510,Diesel,5.4,Dallas,22,New,Medium,66.31063351766522,17,5.4,29.160000000000004
+Nissan,Coupe,2013,185005,Petrol,5.7,Los Angeles,28,New,Low,53.44456968815405,11,5.7,32.49
+Hyundai,Sedan,2017,26826,Petrol,5.6,San Francisco,24,Well-Maintained,Low,57.103214085721866,7,5.6,31.359999999999996
+Hyundai,SUV,2021,73026,Hybrid,4.2,Dallas,3,New,High,77.52786753424635,3,4.2,17.64
+Ford,Coupe,2019,126668,Petrol,4.1,Phoenix,5,Well-Maintained,High,29.61637245258936,5,4.1,16.81
+Chevrolet,Sedan,2019,161590,Petrol,3.0,Dallas,2,New,Medium,41.77167228720136,5,3.0,9.0
+Mercedes,Coupe,2020,29045,Petrol,4.8,New York,14,Old,Medium,31.338680832912527,4,4.8,23.04
+Tesla,SUV,2011,186948,Hybrid,3.7,San Francisco,2,New,Low,68.90112980350914,13,3.7,13.690000000000001
+Kia,Truck,2018,95102,Electric,4.4,New York,13,New,Medium,85.59507504102955,6,4.4,19.360000000000003
+Hyundai,SUV,2013,56919,Petrol,3.1,Dallas,7,Well-Maintained,Low,38.96848381642778,11,3.1,9.610000000000001
+Kia,SUV,2016,104441,Petrol,4.7,Chicago,10,New,High,65.96934757843928,8,4.7,22.090000000000003
+Nissan,Coupe,2023,163175,Hybrid,5.1,Los Angeles,13,Well-Maintained,Medium,59.21611808937279,1,5.1,26.009999999999998
+Kia,Hatchback,2020,172260,Electric,1.7,San Francisco,16,Old,High,45.12789538994693,4,1.7,2.8899999999999997
+Tesla,Convertible,2002,141917,Petrol,5.2,Chicago,26,Well-Maintained,Medium,41.22948882171354,22,5.2,27.040000000000003
+Honda,Convertible,2022,172746,Diesel,3.7,Dallas,14,Well-Maintained,Low,43.15951161555604,2,3.7,13.690000000000001
+Tesla,Truck,2006,123325,Hybrid,5.2,Los Angeles,11,New,High,72.82554265506282,18,5.2,27.040000000000003
+Kia,Truck,2016,24337,Petrol,3.2,Houston,10,Old,High,26.182475262917865,8,3.2,10.240000000000002
+Tesla,Convertible,2011,158385,Petrol,2.9,Chicago,6,Well-Maintained,Medium,22.473596302982024,13,2.9,8.41
+BMW,Hatchback,2008,163015,Diesel,5.6,Chicago,4,New,High,45.09432302103475,16,5.6,31.359999999999996
+Nissan,Convertible,2014,82949,Diesel,2.3,Dallas,21,New,Low,72.73468488500677,10,2.3,5.289999999999999
+Mercedes,Hatchback,2017,5276,Hybrid,5.2,Phoenix,1,Well-Maintained,High,59.56494581952714,7,5.2,27.040000000000003
+Honda,Truck,2020,56151,Hybrid,3.4,Dallas,7,New,High,80.15270474446322,4,3.4,11.559999999999999
+Hyundai,Sedan,2012,153683,Diesel,3.6,Chicago,24,Well-Maintained,Medium,34.80107533426778,12,3.6,12.96
+Toyota,Coupe,2020,148016,Hybrid,2.5,Los Angeles,9,Well-Maintained,High,49.944552139203886,4,2.5,6.25
+Mercedes,Truck,2007,57887,Diesel,3.9,Phoenix,8,Well-Maintained,Medium,39.66455416608287,17,3.9,15.209999999999999
+Toyota,Truck,2013,86442,Petrol,2.6,Dallas,5,Old,Medium,20.82281088929377,11,2.6,6.760000000000001
+Nissan,SUV,2007,54847,Diesel,1.2,San Francisco,19,Well-Maintained,High,43.22669516412167,17,1.2,1.44
+Honda,SUV,2013,63653,Diesel,2.4,Dallas,10,New,Low,60.48731287191151,11,2.4,5.76
+Ford,SUV,2006,61622,Electric,1.0,Chicago,11,Old,Medium,44.55087782574434,18,1.0,1.0
+Hyundai,Coupe,2022,32810,Diesel,5.9,Chicago,25,New,High,79.84633263219112,2,5.9,34.81
+BMW,SUV,2011,82842,Diesel,5.8,Houston,15,Old,Medium,24.963362325960745,13,5.8,33.64
+Ford,Hatchback,2010,127225,Electric,3.0,Dallas,6,Old,Low,40.921602930341855,14,3.0,9.0
+Nissan,Convertible,2021,15503,Hybrid,4.6,Chicago,15,Old,Low,46.92462805794822,3,4.6,21.159999999999997
+Mercedes,Sedan,2021,89761,Electric,2.7,San Francisco,5,Old,Medium,41.77490414759182,3,2.7,7.290000000000001
+BMW,Truck,2010,173048,Petrol,4.4,New York,29,New,Low,62.955798872115736,14,4.4,19.360000000000003
+Tesla,Hatchback,2021,131439,Electric,5.0,Phoenix,19,Well-Maintained,High,60.502463191709936,3,5.0,25.0
+Kia,Sedan,2012,16590,Petrol,5.7,New York,22,New,High,74.4852486912606,12,5.7,32.49
+BMW,Hatchback,2017,146958,Hybrid,3.0,Phoenix,19,Well-Maintained,Medium,56.4109824862955,7,3.0,9.0
+Nissan,Hatchback,2001,148938,Electric,4.9,San Francisco,10,New,Low,82.49649705784562,23,4.9,24.010000000000005
+Chevrolet,Truck,2020,71624,Electric,2.3,Dallas,12,Old,High,47.33934750832537,4,2.3,5.289999999999999
+Kia,Convertible,2014,168864,Hybrid,6.0,Houston,22,Old,High,39.89469882782166,10,6.0,36.0
+Toyota,SUV,2019,145836,Petrol,1.1,Chicago,4,Well-Maintained,High,39.06971606923422,5,1.1,1.2100000000000002
+Hyundai,Coupe,2017,125356,Electric,4.0,Chicago,18,Well-Maintained,Medium,57.17719198429506,7,4.0,16.0
+Toyota,Convertible,2014,47727,Petrol,4.3,Chicago,16,New,Medium,60.485880810196505,10,4.3,18.49
+BMW,Coupe,2018,83471,Electric,4.4,Dallas,8,Well-Maintained,High,63.88507302683147,6,4.4,19.360000000000003
+Toyota,Truck,2022,13068,Diesel,1.6,Phoenix,4,New,High,75.97667331073477,2,1.6,2.5600000000000005
+Nissan,Truck,2023,121923,Electric,5.7,San Francisco,25,Well-Maintained,Low,71.24957409781588,1,5.7,32.49
+Tesla,Truck,2011,143367,Hybrid,1.9,Chicago,23,Well-Maintained,Low,56.054259020085865,13,1.9,3.61
+Mercedes,Sedan,2012,177232,Hybrid,4.1,New York,12,Well-Maintained,Low,45.85956673525375,12,4.1,16.81
+Hyundai,Coupe,2021,16390,Petrol,2.1,Chicago,2,Old,Medium,21.240193767017978,3,2.1,4.41
+Toyota,Convertible,2010,111752,Electric,2.5,Dallas,4,Old,High,29.01739641205494,14,2.5,6.25
+Toyota,Convertible,2004,156203,Petrol,3.7,San Francisco,5,New,Medium,38.76843155580151,20,3.7,13.690000000000001
+BMW,Hatchback,2000,99754,Petrol,3.1,Houston,3,Well-Maintained,High,24.00476700443374,24,3.1,9.610000000000001
+Mercedes,Hatchback,2023,80969,Diesel,1.8,San Francisco,9,New,Low,63.26995881285325,1,1.8,3.24
+Ford,Hatchback,2002,151110,Diesel,1.9,New York,29,Well-Maintained,Low,42.27008010758493,22,1.9,3.61
+Toyota,Truck,2021,188399,Hybrid,3.1,Chicago,21,Old,Low,32.93466369602201,3,3.1,9.610000000000001
+Nissan,Convertible,2018,82064,Petrol,4.8,Chicago,18,Old,Low,29.06812892774859,6,4.8,23.04
+Chevrolet,Coupe,2022,26281,Hybrid,5.5,Los Angeles,11,Well-Maintained,High,67.54614605588341,2,5.5,30.25
+Hyundai,Truck,2006,59189,Electric,1.4,Phoenix,3,Well-Maintained,Low,59.07524417741487,18,1.4,1.9599999999999997
+Toyota,Sedan,2011,53511,Petrol,3.0,New York,25,Old,High,25.475925342413703,13,3.0,9.0
+Nissan,Hatchback,2014,127115,Petrol,1.5,Los Angeles,23,Old,High,29.08596857561774,10,1.5,2.25
+Nissan,Truck,2004,13605,Electric,1.1,San Francisco,2,New,Medium,72.60411507523203,20,1.1,1.2100000000000002
+Hyundai,Truck,2014,105318,Electric,4.3,Houston,9,Old,Low,36.730933988066965,10,4.3,18.49
+Ford,Sedan,2007,137453,Hybrid,4.0,Phoenix,14,Well-Maintained,Low,49.64547296111711,17,4.0,16.0
+Nissan,SUV,2009,24810,Hybrid,1.8,New York,4,New,Medium,80.82072424074873,15,1.8,3.24
+Chevrolet,Convertible,2015,160394,Electric,2.2,Chicago,29,Well-Maintained,High,70.85654667775377,9,2.2,4.840000000000001
+Nissan,Coupe,2007,46869,Hybrid,1.1,San Francisco,9,New,Low,80.15015760064195,17,1.1,1.2100000000000002
+Nissan,SUV,2000,37955,Electric,5.2,New York,13,Well-Maintained,High,67.7795817872793,24,5.2,27.040000000000003
+Nissan,Hatchback,2011,66388,Petrol,5.9,Chicago,18,Old,Medium,21.714120352463475,13,5.9,34.81
+Tesla,Truck,2004,15207,Petrol,1.7,Phoenix,15,Well-Maintained,High,51.93185240035604,20,1.7,2.8899999999999997
+Tesla,Sedan,2002,164292,Diesel,2.2,Chicago,28,New,Low,61.6632836495665,22,2.2,4.840000000000001
+Ford,Sedan,2000,27031,Petrol,5.3,Houston,10,Well-Maintained,High,28.31862471487168,24,5.3,28.09
+Toyota,Convertible,2003,85807,Electric,5.6,San Francisco,16,New,High,77.81767878052862,21,5.6,31.359999999999996
+Nissan,SUV,2007,76312,Hybrid,3.1,Dallas,12,Well-Maintained,Low,57.88018711690891,17,3.1,9.610000000000001
+Mercedes,Convertible,2002,64766,Diesel,1.3,Chicago,20,Old,Low,19.942930672772807,22,1.3,1.6900000000000002
+Toyota,Truck,2009,148521,Hybrid,1.2,Houston,5,Old,High,19.720874138518816,15,1.2,1.44
+Ford,Convertible,2001,94833,Electric,3.9,Dallas,2,Well-Maintained,High,60.59087608970937,23,3.9,15.209999999999999
+Honda,Coupe,2010,192771,Petrol,3.0,San Francisco,10,Well-Maintained,Medium,29.27520075485453,14,3.0,9.0
+Toyota,Sedan,2009,116041,Diesel,1.1,Phoenix,1,Well-Maintained,Low,32.0920271707703,15,1.1,1.2100000000000002
+Toyota,Sedan,2020,121185,Electric,3.9,Phoenix,7,New,High,72.83502942562467,4,3.9,15.209999999999999
+Kia,Hatchback,2013,182164,Diesel,1.1,San Francisco,26,Well-Maintained,Low,36.21819502101881,11,1.1,1.2100000000000002
+BMW,Hatchback,2006,199743,Diesel,4.9,San Francisco,17,Well-Maintained,Medium,25.040796853140485,18,4.9,24.010000000000005
+Kia,Truck,2001,15350,Petrol,2.5,New York,16,New,High,70.35487615069653,23,2.5,6.25
+Chevrolet,Coupe,2008,105859,Electric,1.2,Houston,27,Old,High,47.433168104630255,16,1.2,1.44
+Tesla,SUV,2015,73487,Hybrid,3.9,Houston,27,Well-Maintained,High,63.79718153596736,9,3.9,15.209999999999999
+Tesla,Convertible,2012,153694,Diesel,3.0,San Francisco,24,Well-Maintained,Low,43.43250119333108,12,3.0,9.0
+BMW,Truck,2008,128853,Diesel,5.9,Los Angeles,3,Old,Medium,15.0,16,5.9,34.81
+Hyundai,Hatchback,2019,58117,Hybrid,3.7,Los Angeles,14,Old,Low,44.86245358989271,5,3.7,13.690000000000001
+Hyundai,Convertible,2003,194466,Electric,2.4,Dallas,10,New,High,66.19881943592853,21,2.4,5.76
+Ford,Hatchback,2021,106084,Diesel,4.5,Dallas,22,Well-Maintained,Medium,50.991336052398,3,4.5,20.25
+BMW,Convertible,2009,28782,Diesel,2.4,Los Angeles,7,Well-Maintained,High,44.61825961698373,15,2.4,5.76
+Toyota,SUV,2021,33454,Diesel,5.5,San Francisco,26,New,High,80.25524825582455,3,5.5,30.25
+Hyundai,Truck,2011,72904,Electric,2.9,San Francisco,17,Old,Low,50.98904155242787,13,2.9,8.41
+Nissan,Convertible,2016,134936,Electric,3.7,Dallas,6,New,High,78.71281376536763,8,3.7,13.690000000000001
+Mercedes,Coupe,2013,151664,Hybrid,1.3,Chicago,23,Old,Medium,34.1454911863702,11,1.3,1.6900000000000002
+Toyota,Sedan,2013,158245,Electric,3.1,San Francisco,22,New,High,79.19023627007414,11,3.1,9.610000000000001
+Chevrolet,Coupe,2001,169276,Electric,5.2,Los Angeles,4,Old,High,29.72085293998533,23,5.2,27.040000000000003
+Nissan,Coupe,2020,171668,Petrol,5.0,Houston,17,New,Low,59.89211227474107,4,5.0,25.0
+Nissan,Sedan,2019,170396,Hybrid,2.1,San Francisco,27,Old,Medium,37.0899079132145,5,2.1,4.41
+BMW,Coupe,2010,127258,Diesel,2.1,San Francisco,9,Old,Low,15.0,14,2.1,4.41
+Ford,Convertible,2015,116668,Electric,5.1,Chicago,4,Old,High,37.195190540831234,9,5.1,26.009999999999998
+Chevrolet,Convertible,2018,197274,Diesel,5.7,Dallas,7,Old,Low,15.0,6,5.7,32.49
+Hyundai,Convertible,2022,129184,Diesel,1.5,San Francisco,23,Old,Low,34.00397711917153,2,1.5,2.25
+BMW,Sedan,2005,166822,Petrol,3.3,Phoenix,2,Well-Maintained,Low,19.6309082312146,19,3.3,10.889999999999999
+Hyundai,Coupe,2023,21566,Electric,2.7,New York,17,Old,Low,63.23033862759711,1,2.7,7.290000000000001
+BMW,Sedan,2018,143262,Hybrid,5.4,Los Angeles,24,Well-Maintained,High,58.24384842063776,6,5.4,29.160000000000004
+BMW,Convertible,2004,43333,Electric,1.4,Phoenix,8,Old,High,34.286313231861726,20,1.4,1.9599999999999997
+BMW,Coupe,2003,126929,Diesel,2.1,Dallas,23,Well-Maintained,Medium,39.25587869282688,21,2.1,4.41
+Ford,Coupe,2014,94571,Hybrid,4.8,Houston,15,Well-Maintained,Low,53.27480420892855,10,4.8,23.04
+BMW,Hatchback,2003,125263,Electric,1.3,New York,15,New,Low,74.6418588051513,21,1.3,1.6900000000000002
+Honda,Hatchback,2019,137661,Diesel,3.5,Phoenix,8,Old,Medium,15.0,5,3.5,12.25
+Mercedes,SUV,2009,30235,Diesel,3.2,New York,16,New,Low,72.20536633934545,15,3.2,10.240000000000002
+Hyundai,Truck,2023,5159,Petrol,2.7,Los Angeles,19,New,Medium,79.16374804968817,1,2.7,7.290000000000001
+Toyota,Hatchback,2021,148217,Petrol,3.0,Dallas,11,Old,High,15.0,3,3.0,9.0
+Kia,Sedan,2002,167993,Petrol,3.6,San Francisco,2,New,Medium,40.21481729786998,22,3.6,12.96
+Chevrolet,Hatchback,2004,109859,Diesel,1.8,Houston,23,Old,Low,24.034736247965647,20,1.8,3.24
+Tesla,SUV,2005,152309,Electric,3.9,Dallas,24,New,Medium,83.70546051895238,19,3.9,15.209999999999999
+Ford,Coupe,2020,112507,Petrol,5.0,New York,17,Old,High,25.02362596266158,4,5.0,25.0
+Toyota,SUV,2021,144316,Electric,4.8,Phoenix,28,Old,Low,42.84801719065548,3,4.8,23.04
+Nissan,Coupe,2007,19743,Petrol,1.8,Los Angeles,26,Old,High,37.80018155425444,17,1.8,3.24
+Honda,Coupe,2006,51101,Hybrid,1.7,Los Angeles,16,Well-Maintained,High,62.39281837446688,18,1.7,2.8899999999999997
+Tesla,Truck,2020,126534,Hybrid,2.3,Dallas,25,New,Medium,89.38269792151274,4,2.3,5.289999999999999
+Kia,Hatchback,2009,89227,Petrol,2.8,San Francisco,15,Well-Maintained,High,42.53104559210653,15,2.8,7.839999999999999
+Toyota,Sedan,2005,192450,Diesel,3.0,Phoenix,13,New,Low,45.15701542101554,19,3.0,9.0
+Tesla,Sedan,2013,76126,Petrol,4.4,San Francisco,15,New,High,66.9744424269779,11,4.4,19.360000000000003
+Toyota,Convertible,2003,61071,Petrol,1.3,San Francisco,27,New,High,68.52164611720791,21,1.3,1.6900000000000002
+Honda,Coupe,2012,79763,Diesel,1.2,Phoenix,4,Well-Maintained,Medium,35.14563154076982,12,1.2,1.44
+Kia,Sedan,2019,148309,Hybrid,3.0,New York,16,New,High,76.66319291923703,5,3.0,9.0
+Nissan,Truck,2016,151721,Electric,4.5,Dallas,12,Well-Maintained,Medium,55.85487055588977,8,4.5,20.25
+BMW,Coupe,2022,173785,Petrol,2.0,Dallas,4,Old,Medium,17.337689224918403,2,2.0,4.0
+Hyundai,Truck,2006,181481,Diesel,4.2,Chicago,3,New,Low,46.810034551577175,18,4.2,17.64
+Nissan,Sedan,2003,184838,Petrol,2.3,Dallas,22,New,Low,46.76204303359405,21,2.3,5.289999999999999
+BMW,Sedan,2013,51154,Diesel,5.4,Los Angeles,17,Old,Low,22.117887103195045,11,5.4,29.160000000000004
+Ford,Convertible,2002,12016,Electric,5.5,New York,22,Old,Low,48.35094413213223,22,5.5,30.25
+Mercedes,Sedan,2023,184760,Electric,2.5,Phoenix,18,New,Medium,80.18409642689657,1,2.5,6.25
+Chevrolet,Coupe,2004,94678,Hybrid,2.1,Dallas,25,Old,High,41.83488387045914,20,2.1,4.41
+Chevrolet,Coupe,2015,117056,Diesel,3.1,New York,18,Well-Maintained,Low,45.356519552809445,9,3.1,9.610000000000001
+Hyundai,Coupe,2022,59238,Diesel,2.2,Dallas,23,Well-Maintained,Low,61.87342821606371,2,2.2,4.840000000000001
+Kia,Convertible,2019,63608,Hybrid,4.4,Phoenix,28,New,Low,87.80403267862285,5,4.4,19.360000000000003
+Honda,Convertible,2003,94081,Hybrid,5.1,Houston,17,Well-Maintained,High,50.96856965286397,21,5.1,26.009999999999998
+Kia,Sedan,2023,167969,Diesel,4.4,Phoenix,12,Well-Maintained,Low,33.90092997177479,1,4.4,19.360000000000003
+Honda,SUV,2023,55961,Hybrid,5.1,Phoenix,23,New,High,94.1470355738754,1,5.1,26.009999999999998
+Kia,SUV,2001,180829,Electric,3.0,Phoenix,21,Old,Medium,31.028760920079804,23,3.0,9.0
+Mercedes,Convertible,2017,31917,Petrol,1.8,Dallas,24,New,Medium,66.04198241519177,7,1.8,3.24
+Ford,Sedan,2018,158808,Electric,4.7,Chicago,4,Well-Maintained,Medium,54.13082688853946,6,4.7,22.090000000000003
+Ford,SUV,2018,32990,Hybrid,2.8,Phoenix,12,New,High,86.02985083908536,6,2.8,7.839999999999999
+BMW,Sedan,2016,67551,Diesel,4.4,Los Angeles,26,New,Low,71.51826528626079,8,4.4,19.360000000000003
+Tesla,Sedan,2013,194233,Diesel,2.4,Los Angeles,23,Well-Maintained,Low,38.063274264792085,11,2.4,5.76
+Ford,Sedan,2018,158512,Electric,1.4,New York,22,Well-Maintained,Low,56.0488215038714,6,1.4,1.9599999999999997
+Ford,Hatchback,2021,171277,Diesel,6.0,Chicago,21,New,Low,70.07515917050014,3,6.0,36.0
+Nissan,Coupe,2023,85811,Hybrid,1.8,New York,20,Well-Maintained,Low,67.82129713037962,1,1.8,3.24
+Nissan,Sedan,2012,60103,Electric,5.9,Los Angeles,15,Well-Maintained,High,56.62150558460689,12,5.9,34.81
+BMW,Hatchback,2011,177699,Diesel,5.9,San Francisco,23,Well-Maintained,Medium,37.20051450334946,13,5.9,34.81
+Tesla,Convertible,2005,111122,Petrol,5.0,Los Angeles,28,Well-Maintained,Low,45.423600998260575,19,5.0,25.0
+Hyundai,SUV,2020,24008,Petrol,4.3,Houston,16,Well-Maintained,Medium,48.03533962538476,4,4.3,18.49
+Nissan,Coupe,2003,37402,Hybrid,3.9,Phoenix,5,Well-Maintained,High,55.92815139506719,21,3.9,15.209999999999999
+Hyundai,SUV,2018,189456,Diesel,5.3,San Francisco,21,Old,High,26.954628115043327,6,5.3,28.09
+Toyota,Coupe,2015,141865,Hybrid,2.4,Los Angeles,15,New,Low,70.58815469725235,9,2.4,5.76
+Nissan,SUV,2012,141643,Electric,3.3,Dallas,17,Well-Maintained,High,60.482193479349725,12,3.3,10.889999999999999
+Mercedes,Coupe,2003,152281,Petrol,4.1,Dallas,18,New,Medium,54.31299299496098,21,4.1,16.81
+Tesla,SUV,2022,118550,Electric,3.1,New York,5,Old,Low,44.48144999906191,2,3.1,9.610000000000001
+BMW,SUV,2016,179220,Diesel,3.1,San Francisco,13,Well-Maintained,Low,34.035790476879285,8,3.1,9.610000000000001
+Toyota,SUV,2022,96218,Hybrid,2.7,New York,19,New,Medium,78.54641686819065,2,2.7,7.290000000000001
+Tesla,SUV,2000,138296,Hybrid,3.8,Phoenix,13,Well-Maintained,Low,50.19091123487353,24,3.8,14.44
+Mercedes,Convertible,2017,184767,Hybrid,5.3,Phoenix,18,Well-Maintained,Low,46.98369704639928,7,5.3,28.09
+Tesla,Sedan,2019,125779,Electric,2.0,Houston,14,Well-Maintained,Medium,70.96430688946472,5,2.0,4.0
+Mercedes,Truck,2016,134714,Petrol,5.7,Chicago,4,Well-Maintained,Low,37.33384674507584,8,5.7,32.49
+Mercedes,Hatchback,2014,37441,Electric,4.4,New York,4,Well-Maintained,Low,60.265536316923175,10,4.4,19.360000000000003
+Hyundai,Truck,2010,175201,Electric,5.1,Phoenix,20,Well-Maintained,Medium,61.0232580625313,14,5.1,26.009999999999998
+Kia,Truck,2021,67368,Diesel,3.8,New York,20,Well-Maintained,High,51.71405482984557,3,3.8,14.44
+Toyota,Coupe,2012,97122,Diesel,4.9,Phoenix,19,Old,Medium,22.682972195029883,12,4.9,24.010000000000005
+Tesla,Sedan,2000,49760,Diesel,1.1,Los Angeles,13,Old,Low,16.115653119511176,24,1.1,1.2100000000000002
+Honda,Coupe,2016,28478,Petrol,5.1,New York,12,Well-Maintained,Medium,39.75910500234081,8,5.1,26.009999999999998
+Toyota,Sedan,2005,132881,Petrol,1.2,Los Angeles,7,Well-Maintained,Low,33.73196285183414,19,1.2,1.44
+Kia,Sedan,2003,76854,Diesel,5.4,New York,25,Old,Low,16.169366190911962,21,5.4,29.160000000000004
+Toyota,SUV,2019,99230,Diesel,6.0,Chicago,12,Old,Medium,19.613528340743105,5,6.0,36.0
+Ford,Convertible,2015,90716,Petrol,2.5,Houston,21,Old,Low,29.094222769251385,9,2.5,6.25
+Honda,SUV,2014,148252,Hybrid,2.1,Dallas,4,Well-Maintained,High,44.666617992522426,10,2.1,4.41
+Kia,Convertible,2014,103538,Petrol,4.8,Dallas,27,New,Low,68.93575935395475,10,4.8,23.04
+Hyundai,Coupe,2005,20372,Petrol,2.3,Dallas,2,New,Medium,53.39152343025174,19,2.3,5.289999999999999
+Tesla,Convertible,2014,34796,Petrol,5.3,Los Angeles,2,New,High,60.77770313431049,10,5.3,28.09
+Chevrolet,Coupe,2013,194344,Diesel,1.5,San Francisco,5,New,High,48.38692852479094,11,1.5,2.25
+Kia,Truck,2010,103826,Hybrid,1.6,Phoenix,23,Well-Maintained,Low,54.36263742032139,14,1.6,2.5600000000000005
+BMW,Truck,2006,125592,Petrol,5.9,Dallas,10,New,Medium,61.8718173887096,18,5.9,34.81
+Tesla,Convertible,2008,98635,Diesel,4.4,Chicago,10,Old,Low,15.0,16,4.4,19.360000000000003
+Kia,Convertible,2015,116022,Electric,5.2,Dallas,9,Old,Low,45.29208394007952,9,5.2,27.040000000000003
+Ford,Coupe,2004,59040,Electric,2.6,New York,13,New,Medium,79.76097227626767,20,2.6,6.760000000000001
+Chevrolet,SUV,2019,80357,Petrol,4.4,Los Angeles,7,Old,Medium,15.117622169593233,5,4.4,19.360000000000003
+Ford,Coupe,2009,83356,Electric,4.0,San Francisco,5,Well-Maintained,Low,50.975495957021735,15,4.0,16.0
+Chevrolet,SUV,2017,21211,Hybrid,4.0,New York,26,New,High,93.26039644465688,7,4.0,16.0
+BMW,Truck,2002,110426,Electric,4.4,San Francisco,10,New,Low,78.12387876279213,22,4.4,19.360000000000003
+Tesla,Sedan,2012,10842,Electric,3.9,New York,10,Well-Maintained,High,76.76888566312681,12,3.9,15.209999999999999
+Hyundai,Convertible,2010,199187,Hybrid,3.1,New York,6,Old,Low,21.721093642966476,14,3.1,9.610000000000001
+Ford,SUV,2016,71852,Petrol,2.4,Houston,27,Well-Maintained,Medium,46.42378126252709,8,2.4,5.76
+Ford,Coupe,2021,130737,Petrol,4.8,Houston,28,Well-Maintained,High,50.82242540272373,3,4.8,23.04
+Mercedes,Truck,2012,50968,Hybrid,2.1,Phoenix,19,Old,Medium,39.27392663319923,12,2.1,4.41
+Chevrolet,SUV,2005,22508,Hybrid,4.5,Los Angeles,21,Well-Maintained,Medium,65.71095810597276,19,4.5,20.25
+Nissan,Coupe,2016,158077,Hybrid,2.2,Chicago,8,Old,Medium,24.48262723797225,8,2.2,4.840000000000001
+Tesla,Convertible,2012,59575,Electric,4.1,Chicago,1,Old,Medium,28.09214881415094,12,4.1,16.81
+Chevrolet,Convertible,2018,155043,Hybrid,4.7,Chicago,28,Well-Maintained,Medium,67.08427829809949,6,4.7,22.090000000000003
+Mercedes,Hatchback,2020,161671,Diesel,2.1,New York,17,Old,Low,19.19791634327369,4,2.1,4.41
+Toyota,Sedan,2018,71914,Electric,1.3,Houston,7,Well-Maintained,High,63.55830166908291,6,1.3,1.6900000000000002
+Chevrolet,Hatchback,2009,72055,Petrol,1.7,Los Angeles,14,Old,Low,27.273506871197608,15,1.7,2.8899999999999997
+Hyundai,Truck,2002,92697,Petrol,4.0,New York,21,New,Low,69.62423354665728,22,4.0,16.0
+Tesla,SUV,2013,111239,Petrol,5.2,San Francisco,21,Old,Low,27.480403260744787,11,5.2,27.040000000000003
+Mercedes,Truck,2018,128106,Electric,1.2,Houston,17,Old,Medium,43.20500808101806,6,1.2,1.44
+Toyota,Coupe,2004,10355,Diesel,4.7,Houston,9,Well-Maintained,Low,45.7743643805662,20,4.7,22.090000000000003
+Honda,Convertible,2004,59120,Hybrid,2.7,Dallas,17,Old,High,36.11608478356682,20,2.7,7.290000000000001
+Mercedes,Hatchback,2019,43342,Hybrid,3.4,Dallas,5,New,Low,80.8505718924482,5,3.4,11.559999999999999
+Honda,Hatchback,2016,7257,Petrol,5.6,Los Angeles,26,New,Medium,78.99431818929591,8,5.6,31.359999999999996
+Tesla,Hatchback,2020,32364,Petrol,2.7,San Francisco,25,Old,High,33.326873715984334,4,2.7,7.290000000000001
+Ford,Truck,2009,161044,Electric,3.3,Los Angeles,20,Old,High,36.505867934389386,15,3.3,10.889999999999999
+Mercedes,Convertible,2004,116715,Diesel,1.1,Los Angeles,29,New,High,64.66550926251965,20,1.1,1.2100000000000002
+BMW,SUV,2003,31654,Hybrid,1.4,New York,8,Well-Maintained,High,57.91508448787775,21,1.4,1.9599999999999997
+Honda,Coupe,2005,86423,Electric,2.3,Phoenix,6,New,Low,77.04661891214657,19,2.3,5.289999999999999
+Hyundai,SUV,2003,34320,Hybrid,1.1,Los Angeles,11,New,Medium,69.87487390962812,21,1.1,1.2100000000000002
+BMW,Truck,2006,25808,Petrol,4.2,Dallas,19,Old,High,34.066294712998285,18,4.2,17.64
+Kia,Coupe,2006,57389,Hybrid,3.1,Phoenix,4,Old,High,37.991406137269074,18,3.1,9.610000000000001
+Kia,Hatchback,2017,123581,Diesel,3.7,New York,18,New,Medium,62.65925795890605,7,3.7,13.690000000000001
+Toyota,Sedan,2002,132927,Diesel,1.9,Phoenix,1,Well-Maintained,Low,28.48754347552717,22,1.9,3.61
+Ford,Truck,2000,39773,Petrol,2.5,Chicago,13,New,High,59.437231164457465,24,2.5,6.25
+Tesla,Truck,2023,187240,Diesel,4.3,San Francisco,14,New,Low,61.53978831405733,1,4.3,18.49
+Mercedes,Convertible,2003,163819,Diesel,5.8,Phoenix,24,Well-Maintained,Low,31.04864076933316,21,5.8,33.64
+Nissan,SUV,2005,81396,Electric,1.3,Los Angeles,1,New,Low,79.57230297645462,19,1.3,1.6900000000000002
+Hyundai,Truck,2008,112692,Hybrid,5.5,New York,29,New,Low,83.74103805908979,16,5.5,30.25
+Honda,Truck,2021,62505,Petrol,3.9,San Francisco,11,Old,High,31.377168957844454,3,3.9,15.209999999999999
+Tesla,Hatchback,2013,90896,Petrol,3.8,Los Angeles,17,Well-Maintained,High,43.38473561787091,11,3.8,14.44
+BMW,Hatchback,2011,23135,Petrol,3.5,San Francisco,4,Old,Low,16.126907475336537,13,3.5,12.25
+Kia,Coupe,2019,95887,Petrol,1.3,Dallas,26,Old,Low,35.329673500603846,5,1.3,1.6900000000000002
+Hyundai,Sedan,2023,127118,Petrol,1.4,Chicago,12,Well-Maintained,Medium,35.89219332548725,1,1.4,1.9599999999999997
+Nissan,Convertible,2003,52377,Diesel,4.0,Dallas,10,Well-Maintained,Medium,43.739863301122725,21,4.0,16.0
+Mercedes,Sedan,2020,159626,Electric,2.7,Los Angeles,6,New,Medium,71.17936391583888,4,2.7,7.290000000000001
+Toyota,Coupe,2023,67491,Petrol,5.6,Los Angeles,25,Old,High,27.31475672984698,1,5.6,31.359999999999996
+Nissan,Hatchback,2011,191693,Electric,3.0,Los Angeles,1,Well-Maintained,Medium,44.83499851856765,13,3.0,9.0
+Hyundai,SUV,2009,63283,Electric,1.7,Houston,7,Old,High,45.58400275269204,15,1.7,2.8899999999999997
+Nissan,Hatchback,2021,21923,Diesel,4.6,Chicago,26,Old,High,34.48198125790657,3,4.6,21.159999999999997
+Hyundai,Convertible,2006,52591,Petrol,2.5,San Francisco,27,Well-Maintained,High,57.235173121974135,18,2.5,6.25
+Hyundai,Hatchback,2002,67261,Diesel,3.6,Los Angeles,21,New,High,66.05370271915336,22,3.6,12.96
+Chevrolet,Convertible,2022,59336,Petrol,4.5,Los Angeles,28,Old,Medium,37.853797611829386,2,4.5,20.25
+Honda,Convertible,2013,79083,Diesel,5.5,San Francisco,16,Well-Maintained,Low,42.41187871880444,11,5.5,30.25
+Kia,Convertible,2023,65948,Electric,5.0,Dallas,24,New,Low,93.08051324102594,1,5.0,25.0
+Chevrolet,Coupe,2009,169074,Petrol,4.4,Dallas,14,Old,Low,15.0,15,4.4,19.360000000000003
+Mercedes,Convertible,2015,31672,Hybrid,4.4,Los Angeles,23,Well-Maintained,Medium,73.0602042925953,9,4.4,19.360000000000003
+Chevrolet,Convertible,2015,9213,Electric,5.7,New York,20,Old,Low,51.61251891173956,9,5.7,32.49
+Ford,SUV,2021,146365,Hybrid,2.5,Houston,20,Well-Maintained,Medium,54.82743336357616,3,2.5,6.25
+Ford,Sedan,2009,191932,Electric,1.0,Dallas,6,Well-Maintained,Medium,45.240865907890665,15,1.0,1.0
+Kia,Truck,2012,67507,Diesel,2.4,New York,22,Old,Medium,35.21814337928672,12,2.4,5.76
+Nissan,Sedan,2005,62134,Petrol,2.1,Houston,25,Old,Low,20.705558298317666,19,2.1,4.41
+Honda,Convertible,2011,138172,Electric,4.3,Los Angeles,28,Well-Maintained,Low,69.39238822371385,13,4.3,18.49
+Kia,SUV,2008,198069,Diesel,4.2,Chicago,5,New,Low,44.90139915796566,16,4.2,17.64
+Hyundai,Hatchback,2012,33172,Petrol,4.0,Phoenix,24,Old,High,24.416304284206927,12,4.0,16.0
+BMW,SUV,2003,25132,Petrol,1.1,Phoenix,21,Well-Maintained,Medium,45.1818379921716,21,1.1,1.2100000000000002
+Honda,Convertible,2023,23199,Electric,4.6,Los Angeles,18,Well-Maintained,High,79.22834036470137,1,4.6,21.159999999999997
+Honda,SUV,2010,41609,Petrol,2.6,Dallas,15,New,Medium,75.3490697252038,14,2.6,6.760000000000001
+Hyundai,SUV,2019,179037,Electric,4.3,New York,6,New,Low,65.96313638309215,5,4.3,18.49
+Hyundai,Convertible,2017,144088,Petrol,3.8,Chicago,25,New,Medium,50.49411761972371,7,3.8,14.44
+Toyota,Coupe,2010,175851,Hybrid,2.7,San Francisco,29,Old,Medium,28.362235922710312,14,2.7,7.290000000000001
+Kia,SUV,2020,36881,Diesel,1.7,Houston,19,Well-Maintained,High,59.46207753933253,4,1.7,2.8899999999999997
+Hyundai,Truck,2003,29472,Hybrid,1.5,Los Angeles,1,Well-Maintained,Medium,43.081291464657895,21,1.5,2.25
+Ford,Truck,2017,187885,Electric,5.2,Chicago,1,Well-Maintained,Low,55.69626945439693,7,5.2,27.040000000000003
+Mercedes,SUV,2000,172093,Hybrid,5.6,Chicago,13,New,Medium,68.3640447388096,24,5.6,31.359999999999996
+BMW,Coupe,2006,59131,Electric,4.2,Dallas,3,Well-Maintained,Medium,57.54518121031379,18,4.2,17.64
+Kia,Hatchback,2005,160159,Petrol,1.5,Houston,10,Old,Medium,15.0,19,1.5,2.25
+Tesla,Convertible,2014,17828,Petrol,3.0,Chicago,21,New,High,73.99630312908572,10,3.0,9.0
+Ford,Truck,2017,197682,Electric,4.6,Dallas,3,New,Medium,71.28543676070052,7,4.6,21.159999999999997
+Nissan,Hatchback,2023,101664,Hybrid,4.9,New York,9,New,Medium,81.1223823236265,1,4.9,24.010000000000005
+Hyundai,SUV,2010,137473,Petrol,1.6,Dallas,8,New,High,61.948296866350525,14,1.6,2.5600000000000005
+Tesla,Hatchback,2019,20193,Diesel,1.0,New York,3,Old,High,25.67948775086752,5,1.0,1.0
+Hyundai,Sedan,2023,180936,Petrol,4.6,New York,25,Well-Maintained,High,37.40578513188501,1,4.6,21.159999999999997
+Honda,Truck,2014,156379,Diesel,2.8,San Francisco,13,Old,High,15.0,10,2.8,7.839999999999999
+Ford,SUV,2015,107518,Hybrid,2.3,San Francisco,6,Well-Maintained,Low,44.36354365970425,9,2.3,5.289999999999999
+Honda,Convertible,2006,24611,Diesel,1.1,Chicago,13,Old,Low,26.021394612678023,18,1.1,1.2100000000000002
+Toyota,Coupe,2020,179863,Diesel,3.7,Dallas,23,New,Medium,60.33815649638772,4,3.7,13.690000000000001
+Honda,SUV,2009,148022,Diesel,5.3,San Francisco,20,New,Low,57.86327301447136,15,5.3,28.09
+Toyota,Convertible,2011,81240,Diesel,5.8,New York,20,Old,Medium,22.694702295969087,13,5.8,33.64
+Toyota,Coupe,2023,7745,Petrol,3.8,San Francisco,12,Old,Low,29.17916570638662,1,3.8,14.44
+Tesla,Coupe,2013,60243,Diesel,3.6,Houston,13,Well-Maintained,High,48.05167942313727,11,3.6,12.96
+Hyundai,SUV,2004,8866,Petrol,1.4,Chicago,2,Old,High,15.0,20,1.4,1.9599999999999997
+Nissan,Hatchback,2020,168317,Diesel,3.7,Dallas,21,Old,Low,17.66202216123132,4,3.7,13.690000000000001
+Honda,Hatchback,2017,180796,Electric,2.9,Dallas,24,Well-Maintained,Low,64.35245079984196,7,2.9,8.41
+Ford,Coupe,2004,133681,Hybrid,4.0,Phoenix,23,Well-Maintained,Medium,48.62580786648482,20,4.0,16.0
+Toyota,Hatchback,2002,76354,Diesel,2.9,Dallas,16,Well-Maintained,Medium,41.318377098992485,22,2.9,8.41
+Hyundai,Sedan,2022,56374,Electric,2.2,Chicago,23,Old,Medium,50.85870452231767,2,2.2,4.840000000000001
+BMW,Coupe,2004,119397,Diesel,1.5,Houston,6,Well-Maintained,High,28.780775630848566,20,1.5,2.25
+Kia,Coupe,2023,129577,Diesel,2.6,Dallas,19,New,High,68.91460257902398,1,2.6,6.760000000000001
+Tesla,Convertible,2016,166188,Diesel,1.5,Phoenix,21,New,High,53.49075841468433,8,1.5,2.25
+Nissan,Hatchback,2018,86029,Electric,1.9,Chicago,13,New,High,88.62639165038173,6,1.9,3.61
+Chevrolet,Coupe,2018,98574,Hybrid,5.9,New York,17,Old,Medium,40.86960246223883,6,5.9,34.81
+Tesla,Sedan,2020,156519,Electric,3.2,Los Angeles,23,New,High,90.13219433689514,4,3.2,10.240000000000002
+BMW,Convertible,2011,35431,Hybrid,3.7,Los Angeles,9,Old,High,40.500749858233696,13,3.7,13.690000000000001
+Kia,SUV,2008,153980,Diesel,5.4,New York,17,Old,High,15.0,16,5.4,29.160000000000004
+BMW,Coupe,2000,34336,Petrol,6.0,San Francisco,29,New,High,77.70997210970617,24,6.0,36.0
+Honda,Sedan,2017,45992,Diesel,3.9,Dallas,2,Well-Maintained,Low,37.97028527598921,7,3.9,15.209999999999999
+Toyota,Truck,2020,60350,Hybrid,5.1,Los Angeles,19,Old,Medium,45.32421957933029,4,5.1,26.009999999999998
+Nissan,Sedan,2003,74561,Electric,2.6,San Francisco,19,New,Medium,86.32704463480887,21,2.6,6.760000000000001
+Mercedes,Sedan,2009,56955,Diesel,2.5,Los Angeles,24,Old,High,19.40036112658181,15,2.5,6.25
+Toyota,Convertible,2006,66240,Electric,3.0,New York,7,Well-Maintained,Low,65.07834490056936,18,3.0,9.0
+Mercedes,SUV,2021,156165,Electric,4.4,Dallas,22,Well-Maintained,Medium,58.12557853836844,3,4.4,19.360000000000003
+Kia,Truck,2022,142227,Electric,4.4,Dallas,10,New,Medium,77.50500290081214,2,4.4,19.360000000000003
+Hyundai,Hatchback,2000,51607,Diesel,2.6,San Francisco,10,Old,High,19.284289520988377,24,2.6,6.760000000000001
+Chevrolet,Hatchback,2016,169559,Electric,1.7,New York,27,Old,High,42.331470719573,8,1.7,2.8899999999999997
+Ford,Sedan,2023,191740,Electric,4.2,San Francisco,20,Old,Medium,44.27588029225227,1,4.2,17.64
+Toyota,Convertible,2001,157035,Diesel,1.6,Dallas,9,Old,Medium,15.0,23,1.6,2.5600000000000005
+Nissan,Convertible,2010,186196,Electric,3.9,Dallas,17,New,Low,76.51725676886358,14,3.9,15.209999999999999
+BMW,Hatchback,2008,57870,Diesel,4.5,Chicago,27,Well-Maintained,Medium,53.74621193886765,16,4.5,20.25
+Nissan,Truck,2006,192619,Hybrid,4.5,San Francisco,15,New,Medium,69.38612914622946,18,4.5,20.25
+Kia,SUV,2021,69110,Hybrid,4.8,Chicago,2,Old,High,29.64169614016795,3,4.8,23.04
+Mercedes,Truck,2016,189626,Hybrid,5.4,New York,4,Old,Medium,16.69532383085489,8,5.4,29.160000000000004
+BMW,Coupe,2016,157008,Electric,3.5,Houston,19,Well-Maintained,High,58.08812175170744,8,3.5,12.25
+Ford,Coupe,2001,121895,Petrol,4.7,Los Angeles,17,Old,Medium,15.0,23,4.7,22.090000000000003
+Ford,SUV,2005,9426,Petrol,4.1,Chicago,5,New,Medium,53.040160502927485,19,4.1,16.81
+Toyota,Hatchback,2013,32606,Electric,1.9,Los Angeles,7,New,Medium,82.81267971389417,11,1.9,3.61
+Kia,SUV,2005,183904,Petrol,1.1,Phoenix,18,Well-Maintained,Low,32.28045680728882,19,1.1,1.2100000000000002
+Hyundai,Convertible,2001,33151,Diesel,2.4,New York,21,New,High,79.6748976514733,23,2.4,5.76
+Kia,Coupe,2000,16308,Petrol,3.2,Houston,22,New,Low,70.11337577022846,24,3.2,10.240000000000002
+Mercedes,Sedan,2009,198594,Electric,4.1,Phoenix,27,New,Medium,84.90134999949909,15,4.1,16.81
+Nissan,Sedan,2020,181743,Electric,5.2,Phoenix,7,New,Low,73.10924456813211,4,5.2,27.040000000000003
+Ford,Hatchback,2004,95306,Diesel,2.0,Dallas,17,Old,High,21.767829964336467,20,2.0,4.0
+Nissan,Convertible,2001,111984,Hybrid,1.6,Phoenix,7,New,Medium,65.06931152233612,23,1.6,2.5600000000000005
+Nissan,Truck,2021,7204,Electric,5.8,New York,4,Well-Maintained,Low,83.19561608358444,3,5.8,33.64
+Nissan,Convertible,2015,97769,Diesel,1.5,Chicago,8,Well-Maintained,Low,36.29204568235471,9,1.5,2.25
+Ford,Sedan,2001,92265,Petrol,3.4,New York,13,New,High,53.02012849933404,23,3.4,11.559999999999999
+Tesla,Sedan,2009,36131,Petrol,3.9,Chicago,4,Well-Maintained,Low,44.87270343828102,15,3.9,15.209999999999999
+Honda,Coupe,2001,57428,Diesel,3.7,Phoenix,6,New,High,56.79736451819663,23,3.7,13.690000000000001
+Mercedes,Convertible,2015,38870,Diesel,1.4,Phoenix,25,Well-Maintained,Medium,51.98918998261442,9,1.4,1.9599999999999997
+Tesla,Convertible,2015,108547,Electric,1.3,Houston,5,Well-Maintained,Medium,61.95188574369078,9,1.3,1.6900000000000002
+Mercedes,Sedan,2018,54067,Petrol,1.5,Chicago,12,New,Low,67.38426417634439,6,1.5,2.25
+BMW,Truck,2006,194657,Diesel,3.9,Phoenix,4,New,Medium,43.28901636276306,18,3.9,15.209999999999999
+Kia,Hatchback,2021,117217,Petrol,3.7,Dallas,24,Old,Medium,29.93291153764445,3,3.7,13.690000000000001
+Kia,Hatchback,2011,157679,Diesel,2.2,Los Angeles,29,New,Low,53.55939655243832,13,2.2,4.840000000000001
+Chevrolet,Convertible,2023,161040,Petrol,4.2,Houston,9,New,Medium,49.93373004105282,1,4.2,17.64
+Kia,Hatchback,2014,103934,Hybrid,5.1,New York,4,Old,Low,37.04447806293404,10,5.1,26.009999999999998
+Ford,Sedan,2007,147980,Electric,1.2,Houston,19,New,High,72.81519164541248,17,1.2,1.44
+Hyundai,Sedan,2005,162495,Petrol,3.5,Los Angeles,24,New,High,55.58524325895152,19,3.5,12.25
+Toyota,Convertible,2009,79707,Hybrid,4.4,Chicago,14,Old,High,44.59219318061464,15,4.4,19.360000000000003
+Chevrolet,Convertible,2002,66215,Petrol,2.3,New York,5,New,Low,54.44066272035208,22,2.3,5.289999999999999
+Toyota,Coupe,2018,191907,Petrol,2.5,New York,18,New,Low,55.7595559294642,6,2.5,6.25
+Mercedes,Convertible,2016,54429,Hybrid,4.1,Chicago,10,Old,Medium,45.04038794747645,8,4.1,16.81
+Toyota,Truck,2006,87152,Petrol,5.5,San Francisco,25,Old,Medium,21.7886754172357,18,5.5,30.25
+Toyota,Hatchback,2020,113048,Petrol,5.0,San Francisco,19,Well-Maintained,Medium,52.2146461464102,4,5.0,25.0
+Chevrolet,Convertible,2019,174530,Electric,3.9,Houston,12,New,Medium,80.4277895971824,5,3.9,15.209999999999999
+BMW,SUV,2003,182241,Hybrid,4.7,Phoenix,18,Well-Maintained,Medium,54.43166597654169,21,4.7,22.090000000000003
+Nissan,Coupe,2013,143731,Hybrid,2.8,San Francisco,17,Well-Maintained,Low,50.178284783614,11,2.8,7.839999999999999
+Kia,SUV,2019,196686,Diesel,4.2,Houston,24,Old,Low,26.664873231012063,5,4.2,17.64
+Kia,Sedan,2021,82240,Petrol,3.3,San Francisco,11,New,High,68.55046053501964,3,3.3,10.889999999999999
+Ford,Hatchback,2014,168865,Electric,1.9,Los Angeles,3,New,High,62.98316808162489,10,1.9,3.61
+Chevrolet,Convertible,2023,118688,Petrol,4.5,Dallas,23,Old,High,16.14911787777672,1,4.5,20.25
+Ford,SUV,2007,51473,Petrol,3.8,Phoenix,17,Well-Maintained,High,40.85986558952335,17,3.8,14.44
+Hyundai,Hatchback,2020,101762,Diesel,2.8,Houston,1,Old,Low,19.78173903672877,4,2.8,7.839999999999999
+Hyundai,Sedan,2014,111956,Petrol,5.6,Dallas,15,New,Low,63.48673966303903,10,5.6,31.359999999999996
+Ford,Truck,2021,123452,Electric,1.1,Dallas,28,Old,Low,49.854594673574674,3,1.1,1.2100000000000002
+Chevrolet,Coupe,2019,191823,Electric,2.6,San Francisco,9,New,Medium,72.56935317038483,5,2.6,6.760000000000001
+Ford,Hatchback,2013,131311,Diesel,1.3,Chicago,15,Well-Maintained,Medium,38.24003249949904,11,1.3,1.6900000000000002
+Kia,Hatchback,2008,190326,Petrol,4.8,Los Angeles,28,New,High,62.126085668691786,16,4.8,23.04
+Tesla,Truck,2007,12006,Electric,4.5,Los Angeles,24,Well-Maintained,Medium,65.11855150858464,17,4.5,20.25
+Honda,Hatchback,2016,79218,Petrol,2.7,Los Angeles,28,Well-Maintained,Low,53.421449287671386,8,2.7,7.290000000000001
+Toyota,Sedan,2001,169912,Petrol,4.4,Phoenix,29,New,High,51.8962436206848,23,4.4,19.360000000000003
+Honda,Sedan,2023,37430,Petrol,3.0,New York,3,New,High,62.72729467471284,1,3.0,9.0
+Chevrolet,Truck,2002,28091,Diesel,4.8,Phoenix,22,Well-Maintained,Medium,53.07115281953418,22,4.8,23.04
+Honda,Coupe,2007,169055,Petrol,3.3,Houston,27,Old,High,15.0,17,3.3,10.889999999999999
+Hyundai,Convertible,2011,28989,Electric,3.1,Dallas,19,New,Medium,89.40240883050069,13,3.1,9.610000000000001
+Mercedes,SUV,2000,80451,Petrol,5.7,Dallas,13,Well-Maintained,Medium,46.24249200939498,24,5.7,32.49
+Toyota,Convertible,2009,23990,Electric,2.3,New York,12,Well-Maintained,High,70.29038484040836,15,2.3,5.289999999999999
+Nissan,Hatchback,2019,95270,Petrol,1.6,Houston,20,Old,Medium,25.695148435198107,5,1.6,2.5600000000000005
+Chevrolet,SUV,2002,85360,Electric,3.9,New York,1,New,Medium,69.0981347079706,22,3.9,15.209999999999999
+Toyota,Truck,2005,41081,Electric,5.8,Dallas,21,Well-Maintained,Medium,60.75398550670854,19,5.8,33.64
+Honda,Truck,2006,147105,Petrol,2.9,San Francisco,17,Old,Medium,21.293226211330257,18,2.9,8.41
+Hyundai,Coupe,2019,113272,Petrol,1.3,Phoenix,13,Well-Maintained,High,47.72675903960534,5,1.3,1.6900000000000002
+BMW,SUV,2022,21241,Electric,2.7,Los Angeles,1,New,Low,90.8130113693489,2,2.7,7.290000000000001
+Tesla,Sedan,2017,129932,Hybrid,3.5,Dallas,10,Old,Low,37.49416472404569,7,3.5,12.25
+Nissan,SUV,2010,10939,Diesel,1.8,Chicago,15,Well-Maintained,Medium,45.53737695301288,14,1.8,3.24
+Tesla,Hatchback,2018,118000,Hybrid,4.3,Los Angeles,27,Old,Medium,35.96043778632075,6,4.3,18.49
+Toyota,Sedan,2004,183634,Hybrid,6.0,Dallas,27,New,Medium,72.94270212651905,20,6.0,36.0
+Hyundai,Truck,2018,40063,Petrol,3.3,Phoenix,7,Old,Low,30.93278936810697,6,3.3,10.889999999999999
+Hyundai,SUV,2010,163117,Diesel,2.8,New York,28,New,Medium,68.72523341563482,14,2.8,7.839999999999999
+Honda,Convertible,2023,180841,Hybrid,3.0,San Francisco,22,Well-Maintained,High,56.415548968632855,1,3.0,9.0
+Kia,Coupe,2011,52118,Petrol,1.6,San Francisco,18,New,High,65.5562436070984,13,1.6,2.5600000000000005
+Honda,Convertible,2009,89703,Hybrid,5.4,Los Angeles,16,Well-Maintained,High,55.33369897665272,15,5.4,29.160000000000004
+Kia,Coupe,2007,157697,Hybrid,3.1,Phoenix,14,Well-Maintained,Low,51.08371912716444,17,3.1,9.610000000000001
+Kia,Hatchback,2023,133557,Petrol,2.9,San Francisco,27,New,Medium,68.22955358662377,1,2.9,8.41
+Nissan,Convertible,2008,32076,Petrol,4.3,San Francisco,28,Well-Maintained,Medium,52.5288045661833,16,4.3,18.49
+Honda,SUV,2003,49605,Petrol,3.2,Houston,18,Old,Medium,27.695264456194767,21,3.2,10.240000000000002
+BMW,SUV,2004,89565,Diesel,4.2,Chicago,27,Well-Maintained,Low,41.41081922383132,20,4.2,17.64
+Ford,Convertible,2020,44121,Hybrid,1.3,Los Angeles,7,New,Low,89.04576992710882,4,1.3,1.6900000000000002
+Ford,SUV,2007,36433,Petrol,5.1,New York,17,Old,Low,29.52544503663288,17,5.1,26.009999999999998
+Honda,Hatchback,2022,48309,Electric,5.7,San Francisco,29,Old,Low,49.38189685329843,2,5.7,32.49
+Honda,Sedan,2008,72468,Hybrid,4.2,Houston,18,Well-Maintained,High,56.173229017358175,16,4.2,17.64
+Tesla,Hatchback,2014,180326,Electric,5.8,Phoenix,12,Well-Maintained,Low,42.848282508969454,10,5.8,33.64
+Nissan,Coupe,2014,72293,Diesel,1.8,San Francisco,8,New,Low,60.78660300856599,10,1.8,3.24
+Honda,Hatchback,2015,101258,Petrol,3.4,Chicago,22,Old,Low,23.87844447939732,9,3.4,11.559999999999999
+Tesla,Coupe,2013,173925,Electric,4.0,New York,2,New,Medium,72.28427379600095,11,4.0,16.0
+Kia,SUV,2007,43405,Diesel,3.9,Phoenix,7,Well-Maintained,Medium,36.25490825522333,17,3.9,15.209999999999999
+Hyundai,Sedan,2017,48527,Petrol,3.0,Phoenix,4,Old,Medium,25.58867500967245,7,3.0,9.0
+Hyundai,SUV,2009,82227,Electric,2.7,Los Angeles,18,New,High,86.12423804734217,15,2.7,7.290000000000001
+Kia,Truck,2019,136564,Electric,1.6,San Francisco,28,New,High,89.12597426114007,5,1.6,2.5600000000000005
+Chevrolet,SUV,2005,144883,Diesel,3.0,Los Angeles,6,New,Low,54.710617908862645,19,3.0,9.0
+Tesla,Coupe,2011,98344,Petrol,1.8,New York,27,New,Medium,77.51144425420938,13,1.8,3.24
+Tesla,SUV,2001,160344,Petrol,4.7,San Francisco,9,New,High,47.529709713495336,23,4.7,22.090000000000003
+Kia,SUV,2006,52153,Electric,2.0,Dallas,27,Old,Medium,51.30589758445184,18,2.0,4.0
+BMW,Sedan,2015,113042,Electric,1.3,San Francisco,9,New,High,74.29861523083945,9,1.3,1.6900000000000002
+Mercedes,SUV,2002,59110,Electric,3.8,Dallas,14,Old,High,34.99238292988379,22,3.8,14.44
